@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/nikhil0o7/LeetCode/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/nikhil0o7/LeetCode/tree/master/0494-target-sum) |
 | [1063-best-sightseeing-pair](https://github.com/nikhil0o7/LeetCode/tree/master/1063-best-sightseeing-pair) |
 ## Backtracking
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/nikhil0o7/LeetCode/tree/master/0392-is-subsequence) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhil0o7/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/nikhil0o7/LeetCode/tree/master/2465-shifting-letters-ii) |
 ## Bit Manipulation
@@ -54,4 +56,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhil0o7/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/nikhil0o7/LeetCode/tree/master/2465-shifting-letters-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/nikhil0o7/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
