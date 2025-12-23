@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/nikhil0o7/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/nikhil0o7/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/nikhil0o7/LeetCode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/nikhil0o7/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0494-target-sum](https://github.com/nikhil0o7/LeetCode/tree/master/0494-target-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/nikhil0o7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1063-best-sightseeing-pair](https://github.com/nikhil0o7/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/nikhil0o7/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/nikhil0o7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nikhil0o7/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/nikhil0o7/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhil0o7/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String
 |  |
@@ -75,5 +77,26 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/nikhil0o7/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/nikhil0o7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nikhil0o7/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/nikhil0o7/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/nikhil0o7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nikhil0o7/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nikhil0o7/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nikhil0o7/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nikhil0o7/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nikhil0o7/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
