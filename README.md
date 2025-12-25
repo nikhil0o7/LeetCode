@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/nikhil0o7/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/nikhil0o7/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/nikhil0o7/LeetCode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/nikhil0o7/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil0o7/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0494-target-sum](https://github.com/nikhil0o7/LeetCode/tree/master/0494-target-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/nikhil0o7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/nikhil0o7/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhil0o7/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/nikhil0o7/LeetCode/tree/master/2465-shifting-letters-ii) |
 ## Two Pointers
