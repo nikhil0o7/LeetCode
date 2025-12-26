@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/nikhil0o7/LeetCode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/nikhil0o7/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nikhil0o7/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/nikhil0o7/LeetCode/tree/master/0392-is-subsequence) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhil0o7/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/nikhil0o7/LeetCode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/nikhil0o7/LeetCode/tree/master/0392-is-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/nikhil0o7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
