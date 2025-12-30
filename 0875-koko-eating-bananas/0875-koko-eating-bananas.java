@@ -8,7 +8,7 @@ class Solution {
             int k = (l + r) / 2;
 
             long totalTime = 0;
-            for(int p: piles){
+            for(int p : piles){
                 totalTime += Math.ceil((double) p / k);
             }
             if(totalTime <= h){
