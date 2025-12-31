@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/nikhil0o7/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/nikhil0o7/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/nikhil0o7/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/nikhil0o7/LeetCode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/nikhil0o7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nikhil0o7/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil0o7/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/nikhil0o7/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/nikhil0o7/LeetCode/tree/master/0155-min-stack) |
 | [0981-time-based-key-value-store](https://github.com/nikhil0o7/LeetCode/tree/master/0981-time-based-key-value-store) |
 ## Math
@@ -182,4 +184,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/nikhil0o7/LeetCode/tree/master/0739-daily-temperatures) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/nikhil0o7/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/nikhil0o7/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
