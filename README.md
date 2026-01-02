@@ -188,8 +188,13 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/nikhil0o7/LeetCode/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/nikhil0o7/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/nikhil0o7/LeetCode/tree/master/0146-lru-cache) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/nikhil0o7/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
