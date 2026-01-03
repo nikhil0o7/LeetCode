@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/nikhil0o7/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nikhil0o7/LeetCode/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nikhil0o7/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/nikhil0o7/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nikhil0o7/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/nikhil0o7/LeetCode/tree/master/0143-reorder-list) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nikhil0o7/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/nikhil0o7/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/nikhil0o7/LeetCode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/nikhil0o7/LeetCode/tree/master/0146-lru-cache) |
