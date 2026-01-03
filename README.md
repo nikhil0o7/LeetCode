@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/nikhil0o7/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/nikhil0o7/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/nikhil0o7/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/nikhil0o7/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/nikhil0o7/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/nikhil0o7/LeetCode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/nikhil0o7/LeetCode/tree/master/0217-contains-duplicate) |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nikhil0o7/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/nikhil0o7/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/nikhil0o7/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/nikhil0o7/LeetCode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/nikhil0o7/LeetCode/tree/master/0146-lru-cache) |
