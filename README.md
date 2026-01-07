@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhil0o7/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/nikhil0o7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/nikhil0o7/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0284-peeking-iterator](https://github.com/nikhil0o7/LeetCode/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/nikhil0o7/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil0o7/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0494-target-sum](https://github.com/nikhil0o7/LeetCode/tree/master/0494-target-sum) |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0146-lru-cache](https://github.com/nikhil0o7/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/nikhil0o7/LeetCode/tree/master/0155-min-stack) |
+| [0284-peeking-iterator](https://github.com/nikhil0o7/LeetCode/tree/master/0284-peeking-iterator) |
 | [0981-time-based-key-value-store](https://github.com/nikhil0o7/LeetCode/tree/master/0981-time-based-key-value-store) |
 ## Math
 |  |
@@ -247,4 +249,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/nikhil0o7/LeetCode/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
