@@ -6,7 +6,9 @@ class Solution {
         res[0] = 1;
 
         for(int i  = 1; i <= n-1; i++){
+            
             res[i] = nums[i - 1] * res[i - 1];
+            System.out.println(res[i]);
         }
 
         System.out.print(res[n - 1]);
@@ -16,6 +18,7 @@ class Solution {
         for(int i = n - 1; i >= 0; i --){
             res[i] *= suffix;
             suffix *= nums[i];
+            System.out.println(res[i]);
         }
 
         return res;
