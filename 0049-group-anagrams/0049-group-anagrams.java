@@ -1,7 +1,7 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
         HashMap<String, List<String>> ans = new HashMap<String, List<String>>();
-        for(String s : strs){
+        for(String s: strs){
             char[] ca = s.toCharArray();
             Arrays.sort(ca);
             String key = String.valueOf(ca);
@@ -9,6 +9,7 @@ class Solution {
                 ans.put(key, new ArrayList());
             }
             ans.get(key).add(s);
+
         }
         return new ArrayList(ans.values());
     }
