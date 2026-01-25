@@ -2,10 +2,10 @@ class Solution:
     def minRemoveToMakeValid(self, s: str) -> str:
         indexes_to_remove = set()
         stack = []
-        for i, c in enumerate(s):
+        for i,c in enumerate(s):
             if c not in "()":
                 continue
-            if c == "(":
+            elif c == "(":
                 stack.append(i)
             elif not stack:
                 indexes_to_remove.add(i)
@@ -17,4 +17,5 @@ class Solution:
             if i not in indexes_to_remove:
                 string_builder.append(c)
         return "".join(string_builder)
+
         
