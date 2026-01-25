@@ -7,19 +7,17 @@
 from collections import deque
 class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
-        if not root: return []
+        res = []
+
+        def dfs(node, depth):
+            if not node:
+                return None
+            if depth == len(res):
+                res.append(node.val)
+            dfs(node.right, depth + 1)
+            dfs(node.left, depth + 1)
+
+        dfs(root, 0)
+        return res
         
-        queue = deque([root])
-        ans = []
-        while queue:
-            curr = len(queue)
-            ans.append(queue[-1].val)
-            
-            for _ in range(curr):
-                node = queue.popleft()
-                if node.left:
-                    queue.append(node.left)
-                if node.right:
-                    queue.append(node.right)
-                    
-        return ans
+
