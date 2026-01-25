@@ -3,7 +3,7 @@ class Solution:
         min_price = prices[0]
         max_profit = 0
 
-        for i in range(0, len(prices)):
+        for i in range(len(prices)):
             if max_profit < prices[i] - min_price:
                 max_profit = prices[i] - min_price
             elif min_price > prices[i]:
