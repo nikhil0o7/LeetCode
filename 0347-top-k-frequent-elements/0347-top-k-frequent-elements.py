@@ -1,7 +1,7 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        count = Counter(nums)
-        heap = [(-freq,num) for num,freq in count.items()]
+        countN = Counter(nums)
+        heap = [(-freq,num) for num,freq in countN.items()]
         heapq.heapify(heap)
         ans = []
         for i in range(k):
