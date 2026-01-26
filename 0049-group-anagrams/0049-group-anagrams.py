@@ -4,7 +4,7 @@ class Solution:
         for s in strs:
             sortedS = "".join(sorted(s))
             if sortedS in d:
-                d.append(sortedS)
+                d[sortedS].append(s)
             else:
                 d[sortedS] = [s]
 
