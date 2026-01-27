@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/nikhil0o7/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nikhil0o7/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/nikhil0o7/LeetCode/tree/master/0125-valid-palindrome) |
+| [0227-basic-calculator-ii](https://github.com/nikhil0o7/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/nikhil0o7/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/nikhil0o7/LeetCode/tree/master/0392-is-subsequence) |
 | [0408-valid-word-abbreviation](https://github.com/nikhil0o7/LeetCode/tree/master/0408-valid-word-abbreviation) |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/nikhil0o7/LeetCode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nikhil0o7/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/nikhil0o7/LeetCode/tree/master/0155-min-stack) |
+| [0227-basic-calculator-ii](https://github.com/nikhil0o7/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0739-daily-temperatures](https://github.com/nikhil0o7/LeetCode/tree/master/0739-daily-temperatures) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/nikhil0o7/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Design
@@ -248,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/nikhil0o7/LeetCode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nikhil0o7/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0227-basic-calculator-ii](https://github.com/nikhil0o7/LeetCode/tree/master/0227-basic-calculator-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
