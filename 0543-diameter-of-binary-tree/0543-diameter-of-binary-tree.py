@@ -14,7 +14,10 @@ class Solution:
             nonlocal diameter
             left = dfs(node.left)
             right = dfs(node.right)
+
             diameter = max(diameter, left + right)
-            return 1 + max(left,right)
+
+            return 1 + max(left, right)
+
         dfs(root)
         return diameter
