@@ -3,7 +3,7 @@ class Solution:
         if not s: 
             return 0
 
-        stack :List[int] = [] 
+        stack = [] 
         current = 0
         op = '+'
         s += '+'
