@@ -10,8 +10,11 @@ class Solution:
             nonlocal root_to_leaf
             if r:
                 curr_number = curr_number * 10 + r.val
+                print(curr_number)
                 if not (r.left or r.right):
+                    print("inside if not" + str(curr_number))
                     root_to_leaf += curr_number
+                    print("root_to_leaf" + str(root_to_leaf))
                 preorder(r.left, curr_number)
                 preorder(r.right, curr_number)
 
