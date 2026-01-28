@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nikhil0o7/LeetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/nikhil0o7/LeetCode/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nikhil0o7/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/nikhil0o7/LeetCode/tree/master/0227-basic-calculator-ii) |
 ## Monotonic Stack
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nikhil0o7/LeetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/nikhil0o7/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/nikhil0o7/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/nikhil0o7/LeetCode/tree/master/0206-reverse-linked-list) |
 ## String Matching
