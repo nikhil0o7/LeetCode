@@ -7,7 +7,7 @@ class Solution:
                 first,last = mid, mid
                 while first > 0 and nums[first - 1] == target:
                     first -= 1
-                while last < len(nums) and nums[last + 1] == target:
+                while last < len(nums) - 1 and nums[last + 1] == target:
                     last += 1
                 return [first,last]
             elif nums[mid] < target:
