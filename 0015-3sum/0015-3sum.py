@@ -1,24 +1,18 @@
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
-        res = []
-        nums.sort()
-        for i in range(len(nums)):
-            if nums[i] > 0:
-                break
-            if i == 0 or nums[i-1] != nums[i]:
-                self.twoSum(nums,i,res)
-        return res
-    def twoSum(self, nums: List[int], i: int, res: List[List[int]]):
-        low, high = i + 1, len(nums) - 1
-        while low < high:
-            sum = nums[low] + nums [high] + nums[i]
-            if sum > 0:
-                high -=1
-            elif sum < 0:
-                low +=1
-            else:
-                res.append([nums[i], nums[low], nums[high]])
-                low +=1
-                high -=1
-                while low < high and nums[low] == nums[low - 1]:
-                    low +=1
+        res, dups = set(), set()
+        seen = {}
+        
+        for i in range(len(nums) - 1):
+            if nums[i] not in dups:
+                dups.add(nums[i])
+                
+                for j in range(i + 1, len(nums)):
+                    complement = -nums[i] - nums[j]
+                    
+                    if complement in seen and seen[complement] == i:
+                        res.add(tuple(sorted((nums[i], nums[j], complement))))
+                    
+                    seen[nums[j]] = i
+        
+        return [list(x) for x in res]
