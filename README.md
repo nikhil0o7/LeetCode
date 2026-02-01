@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/nikhil0o7/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/nikhil0o7/LeetCode/tree/master/0339-nested-list-weight-sum) |
+| [0419-battleships-in-a-board](https://github.com/nikhil0o7/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikhil0o7/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0284-peeking-iterator](https://github.com/nikhil0o7/LeetCode/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/nikhil0o7/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil0o7/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0419-battleships-in-a-board](https://github.com/nikhil0o7/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0494-target-sum](https://github.com/nikhil0o7/LeetCode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/nikhil0o7/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhil0o7/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0036-valid-sudoku](https://github.com/nikhil0o7/LeetCode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/nikhil0o7/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0419-battleships-in-a-board](https://github.com/nikhil0o7/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/nikhil0o7/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/nikhil0o7/LeetCode/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nikhil0o7/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
