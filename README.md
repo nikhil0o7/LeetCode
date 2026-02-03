@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/nikhil0o7/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/nikhil0o7/LeetCode/tree/master/0392-is-subsequence) |
 | [0408-valid-word-abbreviation](https://github.com/nikhil0o7/LeetCode/tree/master/0408-valid-word-abbreviation) |
+| [0415-add-strings](https://github.com/nikhil0o7/LeetCode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhil0o7/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/nikhil0o7/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/nikhil0o7/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -288,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/nikhil0o7/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nikhil0o7/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/nikhil0o7/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0415-add-strings](https://github.com/nikhil0o7/LeetCode/tree/master/0415-add-strings) |
 | [1266-minimum-time-visiting-all-points](https://github.com/nikhil0o7/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 ## Monotonic Stack
 |  |
@@ -333,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/nikhil0o7/LeetCode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/nikhil0o7/LeetCode/tree/master/0498-diagonal-traverse) |
 ## Memoization
 |  |
