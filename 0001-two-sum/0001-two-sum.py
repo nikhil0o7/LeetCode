@@ -5,7 +5,9 @@ class Solution:
             t = target - nums[i]
             if t in d:
                 return [d[t], i]
+
             d[nums[i]] = i
-        return [-1,-1]
+            
+        return [-1, -1]
 
         
