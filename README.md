@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1063-best-sightseeing-pair](https://github.com/nikhil0o7/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nikhil0o7/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/nikhil0o7/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nikhil0o7/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2465-shifting-letters-ii](https://github.com/nikhil0o7/LeetCode/tree/master/2465-shifting-letters-ii) |
 ## Dynamic Programming
 |  |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/nikhil0o7/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nikhil0o7/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhil0o7/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Prefix Sum
 |  |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0314-binary-tree-vertical-order-traversal](https://github.com/nikhil0o7/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil0o7/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/nikhil0o7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nikhil0o7/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -234,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/nikhil0o7/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil0o7/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nikhil0o7/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Quickselect
 |  |
 | ------- |
