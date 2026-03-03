@@ -5,7 +5,7 @@ class Solution:
         for src,dst in prerequisites:
             indegree[dst] += 1
             adj[src].append(dst)
-
+        print(adj)
         queue = deque()
         for i in range(numCourses):
             if indegree[i] == 0:
