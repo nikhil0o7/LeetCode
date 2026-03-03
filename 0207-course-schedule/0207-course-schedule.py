@@ -7,7 +7,6 @@ class Solution:
             adj[prereq[1]].append(prereq[0])
             indegree[prereq[0]] += 1
 
-        print(adj)
         queue = deque()
         for i in range(numCourses):
             if indegree[i] == 0:
