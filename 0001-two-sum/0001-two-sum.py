@@ -1,13 +1,12 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        d = { }
+        d = {}
         for i in range(len(nums)):
-            t = target - nums[i]
-            if t in d:
-                return [d[t], i]
+            compliment = target - nums[i]
+            if compliment in d:
+                return [d[compliment], i]
 
             d[nums[i]] = i
-            
         return [-1, -1]
 
         
