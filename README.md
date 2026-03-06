@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/nikhil0o7/LeetCode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/nikhil0o7/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhil0o7/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/nikhil0o7/LeetCode/tree/master/0621-task-scheduler) |
 | [0636-exclusive-time-of-functions](https://github.com/nikhil0o7/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0704-binary-search](https://github.com/nikhil0o7/LeetCode/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/nikhil0o7/LeetCode/tree/master/0706-design-hashmap) |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/nikhil0o7/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhil0o7/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/nikhil0o7/LeetCode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/nikhil0o7/LeetCode/tree/master/0621-task-scheduler) |
 | [0706-design-hashmap](https://github.com/nikhil0o7/LeetCode/tree/master/0706-design-hashmap) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nikhil0o7/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0981-time-based-key-value-store](https://github.com/nikhil0o7/LeetCode/tree/master/0981-time-based-key-value-store) |
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/nikhil0o7/LeetCode/tree/master/0242-valid-anagram) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/nikhil0o7/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil0o7/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/nikhil0o7/LeetCode/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/nikhil0o7/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/nikhil0o7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nikhil0o7/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -247,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhil0o7/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil0o7/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/nikhil0o7/LeetCode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nikhil0o7/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/nikhil0o7/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/nikhil0o7/LeetCode/tree/master/1046-last-stone-weight) |
@@ -259,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/nikhil0o7/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil0o7/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/nikhil0o7/LeetCode/tree/master/0621-task-scheduler) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nikhil0o7/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Quickselect
 |  |
@@ -296,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nikhil0o7/LeetCode/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/nikhil0o7/LeetCode/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/nikhil0o7/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Sliding Window
 |  |
