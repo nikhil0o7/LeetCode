@@ -8,20 +8,20 @@ class Solution:
     def goodNodes(self, root: TreeNode) -> int:
         if not root:
             return 0
-        ans = 0
+        num_good_nodes = 0
         
         def dfs(node, val):
             if not node:
                 return
-            nonlocal ans
+            nonlocal num_good_nodes
             if node.val >= val:
-                ans += 1
+                num_good_nodes += 1
                 val = node.val
             dfs(node.left, val)
             dfs(node.right, val)
 
         dfs(root, root.val)
-        return ans 
+        return num_good_nodes 
 
 
 
