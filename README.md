@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhil0o7/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nikhil0o7/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/nikhil0o7/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/nikhil0o7/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nikhil0o7/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/nikhil0o7/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/nikhil0o7/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/nikhil0o7/LeetCode/tree/master/0207-course-schedule) |
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhil0o7/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nikhil0o7/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/nikhil0o7/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/nikhil0o7/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -149,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/nikhil0o7/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/nikhil0o7/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhil0o7/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nikhil0o7/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/nikhil0o7/LeetCode/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/nikhil0o7/LeetCode/tree/master/0494-target-sum) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nikhil0o7/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
