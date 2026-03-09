@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/nikhil0o7/LeetCode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/nikhil0o7/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/nikhil0o7/LeetCode/tree/master/0733-flood-fill) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nikhil0o7/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0339-nested-list-weight-sum](https://github.com/nikhil0o7/LeetCode/tree/master/0339-nested-list-weight-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikhil0o7/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/nikhil0o7/LeetCode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/nikhil0o7/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/nikhil0o7/LeetCode/tree/master/0733-flood-fill) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nikhil0o7/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nikhil0o7/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/nikhil0o7/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/nikhil0o7/LeetCode/tree/master/0621-task-scheduler) |
 | [0636-exclusive-time-of-functions](https://github.com/nikhil0o7/LeetCode/tree/master/0636-exclusive-time-of-functions) |
+| [0695-max-area-of-island](https://github.com/nikhil0o7/LeetCode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/nikhil0o7/LeetCode/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/nikhil0o7/LeetCode/tree/master/0706-design-hashmap) |
 | [0733-flood-fill](https://github.com/nikhil0o7/LeetCode/tree/master/0733-flood-fill) |
@@ -315,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/nikhil0o7/LeetCode/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/nikhil0o7/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/nikhil0o7/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0695-max-area-of-island](https://github.com/nikhil0o7/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/nikhil0o7/LeetCode/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nikhil0o7/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Union Find
@@ -427,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/nikhil0o7/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/nikhil0o7/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/nikhil0o7/LeetCode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/nikhil0o7/LeetCode/tree/master/0695-max-area-of-island) |
 ## Simulation
 |  |
 | ------- |
