@@ -11,4 +11,5 @@ class Solution:
                 p_copy = p.copy()
                 p_copy.insert(i, nums[0])
                 res.append(p_copy)
+
         return res        
