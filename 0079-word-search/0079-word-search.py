@@ -20,7 +20,6 @@ class Solution:
             for j in range(COLS):
                 if dfs(i,j,0) : return True
 
-
         return False
 
 
