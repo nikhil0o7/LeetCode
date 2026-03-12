@@ -5,23 +5,22 @@ class Solution:
         for src,dst in prerequisites:
             indegree[dst] += 1
             adj[src].append(dst)
-        print(adj)
-        queue = deque()
+
+        q= deque()
         for i in range(numCourses):
             if indegree[i] == 0:
-                queue.append(i)
+                q.append(i)
 
-        finish, output = 0, []
-
-        while queue:
-            node = queue.popleft()
-            output.append(node)
+        output = []
+        finish = 0
+        while q:
+            node = q.popleft()
             finish += 1
-            for nei in adj[node]:
-                indegree[nei] -= 1
-                if indegree[nei] == 0:
-                    queue.append(nei)
-        
+            output.append(node)
+            for n in adj[node]:
+                indegree[n] -=1
+                if indegree[n] == 0:
+                    q.append(n)     
         if finish != numCourses:
             return []
 
