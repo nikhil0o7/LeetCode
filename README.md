@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0261-graph-valid-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0261-graph-valid-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/nikhil0o7/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/nikhil0o7/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0339-nested-list-weight-sum](https://github.com/nikhil0o7/LeetCode/tree/master/0339-nested-list-weight-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nikhil0o7/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/nikhil0o7/LeetCode/tree/master/0419-battleships-in-a-board) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0286-walls-and-gates](https://github.com/nikhil0o7/LeetCode/tree/master/0286-walls-and-gates) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/nikhil0o7/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/nikhil0o7/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0339-nested-list-weight-sum](https://github.com/nikhil0o7/LeetCode/tree/master/0339-nested-list-weight-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nikhil0o7/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikhil0o7/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -474,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/nikhil0o7/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nikhil0o7/LeetCode/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0261-graph-valid-tree) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/nikhil0o7/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/nikhil0o7/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/nikhil0o7/LeetCode/tree/master/0695-max-area-of-island) |
 ## Simulation
@@ -497,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/nikhil0o7/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nikhil0o7/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0261-graph-valid-tree) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/nikhil0o7/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/nikhil0o7/LeetCode/tree/master/0547-number-of-provinces) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/nikhil0o7/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Topological Sort
