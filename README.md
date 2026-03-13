@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nikhil0o7/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0261-graph-valid-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0261-graph-valid-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/nikhil0o7/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/nikhil0o7/LeetCode/tree/master/0339-nested-list-weight-sum) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/nikhil0o7/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nikhil0o7/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0261-graph-valid-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0261-graph-valid-tree) |
 | [0286-walls-and-gates](https://github.com/nikhil0o7/LeetCode/tree/master/0286-walls-and-gates) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/nikhil0o7/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -471,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/nikhil0o7/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/nikhil0o7/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nikhil0o7/LeetCode/tree/master/0200-number-of-islands) |
+| [0261-graph-valid-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0261-graph-valid-tree) |
 | [0547-number-of-provinces](https://github.com/nikhil0o7/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/nikhil0o7/LeetCode/tree/master/0695-max-area-of-island) |
 ## Simulation
@@ -493,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/nikhil0o7/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/nikhil0o7/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nikhil0o7/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0261-graph-valid-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0261-graph-valid-tree) |
 | [0547-number-of-provinces](https://github.com/nikhil0o7/LeetCode/tree/master/0547-number-of-provinces) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/nikhil0o7/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Topological Sort
