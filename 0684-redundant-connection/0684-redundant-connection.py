@@ -27,12 +27,9 @@ class Solution:
     def findRedundantConnection(self, edges: List[List[int]]) -> List[int]:
         N = len(edges)
         dsu = DSU(N)
-        ans = []
         for n1,n2 in edges:
-            if not dsu.union(n1 - 1,n2 - 1):
-                ans.append([n1,n2])
-
-        return ans[-1]
+            if not dsu.union(n1 - 1, n2 - 1):
+                return [n1,n2]
 
 
         
