@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/nikhil0o7/LeetCode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/nikhil0o7/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/nikhil0o7/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/nikhil0o7/LeetCode/tree/master/0733-flood-fill) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nikhil0o7/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0417-pacific-atlantic-water-flow](https://github.com/nikhil0o7/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikhil0o7/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/nikhil0o7/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/nikhil0o7/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/nikhil0o7/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/nikhil0o7/LeetCode/tree/master/0733-flood-fill) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nikhil0o7/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -478,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0261-graph-valid-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/nikhil0o7/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/nikhil0o7/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/nikhil0o7/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/nikhil0o7/LeetCode/tree/master/0695-max-area-of-island) |
 ## Simulation
 |  |
@@ -502,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0261-graph-valid-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/nikhil0o7/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/nikhil0o7/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/nikhil0o7/LeetCode/tree/master/0684-redundant-connection) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/nikhil0o7/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Topological Sort
 |  |
