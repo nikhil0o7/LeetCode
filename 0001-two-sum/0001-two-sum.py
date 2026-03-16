@@ -4,9 +4,11 @@ class Solution:
         for i in range(len(nums)):
             compliment = target - nums[i]
             if compliment in d:
-                return [d[compliment], i]
+                return [d[compliment],i]
 
             d[nums[i]] = i
-        return [-1, -1]
 
+        return [-1,-1]
+
+            
         
