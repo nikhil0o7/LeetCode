@@ -291,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0078-subsets](https://github.com/nikhil0o7/LeetCode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/nikhil0o7/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0693-binary-number-with-alternating-bits](https://github.com/nikhil0o7/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nikhil0o7/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhil0o7/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Prefix Sum
