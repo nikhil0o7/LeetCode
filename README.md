@@ -294,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/nikhil0o7/LeetCode/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/nikhil0o7/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/nikhil0o7/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/nikhil0o7/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nikhil0o7/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -462,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/nikhil0o7/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nikhil0o7/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/nikhil0o7/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/nikhil0o7/LeetCode/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/nikhil0o7/LeetCode/tree/master/0415-add-strings) |
 | [0973-k-closest-points-to-origin](https://github.com/nikhil0o7/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/nikhil0o7/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -493,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/nikhil0o7/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/nikhil0o7/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/nikhil0o7/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/nikhil0o7/LeetCode/tree/master/0231-power-of-two) |
 ## String Matching
 |  |
 | ------- |
