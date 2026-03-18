@@ -1,16 +1,14 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        left, right = 0, len(s) -1
-        while left < right:
-            while left < right and not s[left].isalnum():
-                left += 1
-            while left < right and not s[right].isalnum():
-                right -= 1
-            while left < right and s[left].lower() != s[right].lower():
+        s = re.sub('[^A-Z0-9a-z]','',s)
+        l = 0
+        r = len(s) - 1
+        s = s.lower()
+        while l < r:
+            if s[l] == s[r]:
+                l += 1
+                r -= 1
+            else:
                 return False
-            left += 1
-            right -= 1
         return True
-
-            
         
