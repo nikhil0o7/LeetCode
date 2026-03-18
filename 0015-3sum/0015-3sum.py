@@ -5,13 +5,13 @@ class Solution:
         for i in range(len(nums)):
             if nums[i] > 0:
                 break
-            if i ==0 or nums[i - 1] != nums[i]:
-                self.twoSum(nums, i, res)
+            elif i == 0 or nums[i - 1] != nums[i]:
+                self.twoSum2(nums,i,res)
+
         return res
-
-
-    def twoSum(self, nums, i, res):
-        l, r = i + 1, len(nums) - 1
+    
+    def twoSum2(self,nums,i,res):
+        l , r = i + 1, len(nums) - 1
         while l < r:
             s = nums[i] + nums[l] + nums[r]
             if s < 0:
@@ -20,7 +20,7 @@ class Solution:
                 r -= 1
             else:
                 res.append([nums[i],nums[l],nums[r]])
-                l +=1 
-                r -=1
-                while l < r and nums[l] == nums[l -1]:
+                l += 1
+                r -= 1
+                while l < r and nums[l] == nums[l - 1]:
                     l += 1
