@@ -11,6 +11,9 @@ class Solution:
             else:
                 break
 
+        if not (top<= bot):
+            return False
+
         row = (top + bot) // 2
 
         l,r = 0, COLS - 1
