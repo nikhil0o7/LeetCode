@@ -7,6 +7,7 @@
 class Solution:
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
         diameter = 0
+
         def dfs(node):
             if node is None:
                 return 0
@@ -17,3 +18,4 @@ class Solution:
             return 1 + max(left,right)
         dfs(root)
         return diameter
+        
