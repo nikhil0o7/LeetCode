@@ -19,12 +19,12 @@ class Solution:
             prev = prev.next
 
         if list1 is not None:
-            prev.next = list1.next
+            prev.next = list1
 
         if list2 is not None:
-            prev.next = list2.next
+            prev.next = list2
 
-        return prev.next
+        return phead.next
 
 
 
