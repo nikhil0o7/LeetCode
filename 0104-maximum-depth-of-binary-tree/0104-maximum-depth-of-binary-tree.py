@@ -9,23 +9,15 @@ class Solution:
         if not root:
             return 0
 
-        q = deque([root])
-        depth = 0
+        def dfs(node, depth) -> int:
+            if not node:
+                return 0
 
-        while q:
-            level_size = len(q)
-            depth += 1
+            left = dfs(node.left, 1 + depth)
+            right = dfs(node.right, 1 + depth)
 
-            for i in range(level_size):
-                node = q.popleft()
+            depth = 1 + max(left, right)
+            return depth
 
-                if node.left:
-                    q.append(node.left)
-                
-                if node.right:
-                    q.append(node.right)
-
-
-        return depth
-
-                
+        return dfs(root, 0)
+        
