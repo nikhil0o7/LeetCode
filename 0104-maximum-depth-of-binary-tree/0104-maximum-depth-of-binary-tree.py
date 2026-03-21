@@ -13,10 +13,11 @@ class Solution:
             if not node:
                 return 0
 
-            left = dfs(node.left, 1 + depth)
-            right = dfs(node.right, 1 + depth)
-
+            left = dfs(node.left, depth)
+            right = dfs(node.right, depth)
+            
             depth = 1 + max(left, right)
+
             return depth
 
         return dfs(root, 0)
