@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/nikhil0o7/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0428-serialize-and-deserialize-n-ary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0428-serialize-and-deserialize-n-ary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/nikhil0o7/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikhil0o7/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0417-pacific-atlantic-water-flow](https://github.com/nikhil0o7/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/nikhil0o7/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0428-serialize-and-deserialize-n-ary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0428-serialize-and-deserialize-n-ary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/nikhil0o7/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikhil0o7/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/nikhil0o7/LeetCode/tree/master/0547-number-of-provinces) |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0339-nested-list-weight-sum](https://github.com/nikhil0o7/LeetCode/tree/master/0339-nested-list-weight-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nikhil0o7/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0428-serialize-and-deserialize-n-ary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0428-serialize-and-deserialize-n-ary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/nikhil0o7/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikhil0o7/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/nikhil0o7/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nikhil0o7/LeetCode/tree/master/0684-redundant-connection) |
@@ -118,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/nikhil0o7/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0449-serialize-and-deserialize-bst](https://github.com/nikhil0o7/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikhil0o7/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -286,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/nikhil0o7/LeetCode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhil0o7/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0428-serialize-and-deserialize-n-ary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0428-serialize-and-deserialize-n-ary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/nikhil0o7/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0567-permutation-in-string](https://github.com/nikhil0o7/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/nikhil0o7/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/nikhil0o7/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -455,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0284-peeking-iterator](https://github.com/nikhil0o7/LeetCode/tree/master/0284-peeking-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/nikhil0o7/LeetCode/tree/master/0355-design-twitter) |
+| [0449-serialize-and-deserialize-bst](https://github.com/nikhil0o7/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nikhil0o7/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0706-design-hashmap](https://github.com/nikhil0o7/LeetCode/tree/master/0706-design-hashmap) |
 | [0981-time-based-key-value-store](https://github.com/nikhil0o7/LeetCode/tree/master/0981-time-based-key-value-store) |
@@ -563,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0098-validate-binary-search-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nikhil0o7/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/nikhil0o7/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nikhil0o7/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
