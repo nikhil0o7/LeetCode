@@ -3,14 +3,14 @@ class Solution:
 
         def backtrack(curr, i):
             if i > len(nums):
-                return 
+                return
 
             ans.append(curr[:])
-            for j in range(i,len(nums)):
+            for j in range(i, len(nums)):
                 curr.append(nums[j])
                 backtrack(curr, j + 1)
                 curr.pop()
+
         ans = []
-        backtrack([], 0)
+        backtrack([],0)
         return ans
-        
