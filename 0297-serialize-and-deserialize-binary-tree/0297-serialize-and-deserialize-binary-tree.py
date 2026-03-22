@@ -17,12 +17,12 @@ class Codec:
         def dfs(node):
             if not node:
                 res.append("N")
-                return 
-            
+                return
             res.append(str(node.val))
             dfs(node.left)
             dfs(node.right)
-        dfs(root)
+
+        dfs(root)  
         return ",".join(res)
         
 
@@ -44,6 +44,7 @@ class Codec:
             node.left = dfs()
             node.right = dfs()
             return node
+
         return dfs()
         
 
