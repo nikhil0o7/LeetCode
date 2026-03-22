@@ -1,8 +1,8 @@
 # class TreeNode:
-#     def __init__(self,val: int = 0,left: Optional[TreeNode],right: Optional[TreeNode]):
+#     def __init__(self,val):
 #         self.val = val
-#         self.left = left
-#         self.right = right
+#         self.left = None
+#         self.right = None
 
 class Codec:
 
