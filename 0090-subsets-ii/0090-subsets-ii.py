@@ -1,5 +1,6 @@
 class Solution:
     def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
+        nums.sort()
         def backtrack(curr, i):
             if i == len(nums):
                 ans.append(curr[:])
