@@ -19,7 +19,7 @@ class Codec:
 
         preorder(root)
         print(res)
-        return "".join(res)
+        return ",".join(res)
 
 
 
@@ -40,7 +40,7 @@ class Codec:
             node = TreeNode(val)    
            
             left = build(lower,val)
-            right = build(val, lower)
+            right = build(val, upper)
             node.left = left
             node.right = right
             return node
