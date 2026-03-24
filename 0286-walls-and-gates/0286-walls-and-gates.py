@@ -3,34 +3,33 @@ class Solution:
         """
         Do not return anything, modify rooms in-place instead.
         """
-        ROWS, COLS = len(rooms), len(rooms[0]) 
-        q = deque()
+        ROWS, COLS = len(rooms), len(rooms[0])
+        queue = deque()
+        dist = 0
         visit = set()
 
+
         def addRoom(r,c) -> None:
-            if (r <0 or r == ROWS or c == COLS or c < 0 or (r,c) in visit or rooms[r][c] == -1):
+            if (r < 0 or r == ROWS or c < 0 or c == COLS or (r,c) in visit or rooms[r][c] == -1):
                 return
 
-            q.append([r,c])
+            queue.append([r,c])
             visit.add((r,c))
 
+        for i in range(ROWS):
+            for j in range(COLS):
+                if rooms[i][j] == 0:
+                    queue.append((i,j))
+                    visit.add((i,j))
 
-        for r in range(ROWS):
-            for c in range(COLS):
-                if rooms[r][c] == 0:
-                    q.append([r,c])
-                    visit.add((r,c))      
-
-        dist = 0
-
-        while q:
-            for i in range(len(q)): 
-                r,c = q.popleft()
+        
+        while queue:
+            for i in range(len(queue)):
+                r,c = queue.popleft()
                 rooms[r][c] = dist
                 addRoom(r + 1, c)
                 addRoom(r - 1, c)
                 addRoom(r, c + 1)
                 addRoom(r, c - 1)
-            dist += 1
 
-        
+            dist+=1
