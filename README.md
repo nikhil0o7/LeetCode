@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1063-best-sightseeing-pair](https://github.com/nikhil0o7/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nikhil0o7/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/nikhil0o7/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nikhil0o7/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nikhil0o7/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1470-shuffle-the-array](https://github.com/nikhil0o7/LeetCode/tree/master/1470-shuffle-the-array) |
 | [2126-destroying-asteroids](https://github.com/nikhil0o7/LeetCode/tree/master/2126-destroying-asteroids) |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0846-hand-of-straights](https://github.com/nikhil0o7/LeetCode/tree/master/0846-hand-of-straights) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nikhil0o7/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0981-time-based-key-value-store](https://github.com/nikhil0o7/LeetCode/tree/master/0981-time-based-key-value-store) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nikhil0o7/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhil0o7/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String
 |  |
@@ -369,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0846-hand-of-straights](https://github.com/nikhil0o7/LeetCode/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/nikhil0o7/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/nikhil0o7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nikhil0o7/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nikhil0o7/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2126-destroying-asteroids](https://github.com/nikhil0o7/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/nikhil0o7/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
@@ -452,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/nikhil0o7/LeetCode/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/nikhil0o7/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0846-hand-of-straights](https://github.com/nikhil0o7/LeetCode/tree/master/0846-hand-of-straights) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nikhil0o7/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2126-destroying-asteroids](https://github.com/nikhil0o7/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/nikhil0o7/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 ## Sliding Window
