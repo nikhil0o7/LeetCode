@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nikhil0o7/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nikhil0o7/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1470-shuffle-the-array](https://github.com/nikhil0o7/LeetCode/tree/master/1470-shuffle-the-array) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/nikhil0o7/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2126-destroying-asteroids](https://github.com/nikhil0o7/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/nikhil0o7/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2465-shifting-letters-ii](https://github.com/nikhil0o7/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -456,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0680-valid-palindrome-ii](https://github.com/nikhil0o7/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0846-hand-of-straights](https://github.com/nikhil0o7/LeetCode/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nikhil0o7/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/nikhil0o7/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2126-destroying-asteroids](https://github.com/nikhil0o7/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/nikhil0o7/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 ## Sliding Window
