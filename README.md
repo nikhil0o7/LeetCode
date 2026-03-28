@@ -524,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/nikhil0o7/LeetCode/tree/master/0415-add-strings) |
 | [0973-k-closest-points-to-origin](https://github.com/nikhil0o7/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/nikhil0o7/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [2235-add-two-integers](https://github.com/nikhil0o7/LeetCode/tree/master/2235-add-two-integers) |
 ## Monotonic Stack
 |  |
 | ------- |
