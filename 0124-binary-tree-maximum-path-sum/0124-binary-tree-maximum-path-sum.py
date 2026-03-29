@@ -11,15 +11,16 @@ class Solution:
             if not node:
                 return 0
             nonlocal ans
-            leftMax = dfs(node.left)
-            rightMax = dfs(node.right)
-            left = max(leftMax, 0)
-            right = max(rightMax, 0)
+            left = max(dfs(node.left),0)
+            right = max(dfs(node.right),0)
             ans = max(ans, node.val + left + right)
+
             return node.val + max(left,right)
 
         dfs(root)
-        return ans
+        return ans 
+
+
 
 
 
