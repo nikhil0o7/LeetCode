@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/nikhil0o7/LeetCode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/nikhil0o7/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/nikhil0o7/LeetCode/tree/master/0846-hand-of-straights) |
+| [0853-car-fleet](https://github.com/nikhil0o7/LeetCode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/nikhil0o7/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/nikhil0o7/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/nikhil0o7/LeetCode/tree/master/0994-rotting-oranges) |
@@ -390,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/nikhil0o7/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/nikhil0o7/LeetCode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/nikhil0o7/LeetCode/tree/master/0846-hand-of-straights) |
+| [0853-car-fleet](https://github.com/nikhil0o7/LeetCode/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/nikhil0o7/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/nikhil0o7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nikhil0o7/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -507,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0636-exclusive-time-of-functions](https://github.com/nikhil0o7/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/nikhil0o7/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/nikhil0o7/LeetCode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/nikhil0o7/LeetCode/tree/master/0853-car-fleet) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhil0o7/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/nikhil0o7/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Design
@@ -540,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nikhil0o7/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/nikhil0o7/LeetCode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/nikhil0o7/LeetCode/tree/master/0853-car-fleet) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhil0o7/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Linked List
 |  |
