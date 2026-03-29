@@ -7,7 +7,7 @@ class Solution:
         }
         stack = []
         for ch in s:
-            if ch in stack:
+            if ch in d:
                 if stack and stack[-1] == d[ch]:
                     stack.pop()
                 else:
@@ -16,7 +16,7 @@ class Solution:
                 stack.append(ch)
         
         print(stack)
-        return len(stack) == 0
+        return stack == []
 
 
 
