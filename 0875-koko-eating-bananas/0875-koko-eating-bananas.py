@@ -3,20 +3,17 @@ class Solution:
         left = 1
         right = max(piles)
         res = right
-        while left <= right: 
+        while left <= right:
             mid = (left + right) // 2
             hours_spent = 0
             for p in piles:
                 hours_spent += math.ceil(p/mid)
 
             if hours_spent <= h:
-                res = min(res, mid)
+                res = min(res,mid)
                 right = mid - 1
-            else:
+            else :
                 left = mid + 1
 
         return res
-
-
-
         
