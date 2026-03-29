@@ -7,32 +7,25 @@ class TimeMap:
     def set(self, key: str, value: str, timestamp: int) -> None:
         if not key in self.store:
             self.store[key] = []
-        # print(self.store)
-        self.store[key].append([timestamp, value])
-        # print(self.store)
+        self.store[key].append((timestamp,value))
 
     def get(self, key: str, timestamp: int) -> str:
-        if not key in self.store:
-            return ""
+        res = ""
 
-        if timestamp < self.store[key][0][0]:
-            return ""
-
+        if key not in self.store:
+            return res
+        
         left = 0
-        right  = len(self.store[key])
-
-        while left < right:
+        arr = self.store[key]
+        right = len(arr) - 1
+        while left <= right:
             mid = (left + right) // 2
-            if self.store[key][mid][0] <= timestamp:
+            if arr[mid][0] <= timestamp:
+                res = arr[mid][1]
                 left = mid + 1
             else:
-                right = mid
-        
-        # print("" if right == 0 else self.store[key][right - 1][1])
-
-        return "" if right == 0 else self.store[key][right - 1][1]
-
-
+                right = mid - 1
+        return res
         
 
 
