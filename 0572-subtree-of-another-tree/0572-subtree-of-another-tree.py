@@ -10,17 +10,21 @@ class Solution:
             return True
         if not root:
             return False
+
         if self.isSameTree(root,subRoot):
             return True
 
         return self.isSubtree(root.left, subRoot) or self.isSubtree(root.right, subRoot)
 
 
-    def isSameTree(self,root, subRoot) -> bool:
+
+    def isSameTree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
         if not root and not subRoot:
             return True
-        if (root and not subRoot) or (subRoot and not root):
+        
+        if (not root and subRoot) or (root and not subRoot):
             return False
+
         if root.val != subRoot.val:
             return False
 
@@ -28,4 +32,3 @@ class Solution:
         right = self.isSameTree(root.right, subRoot.right)
 
         return left and right
-        
