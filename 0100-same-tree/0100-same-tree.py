@@ -7,7 +7,7 @@
 class Solution:
     def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
         
-        def dfs(node1, node2) -> bool:
+        def helper(node1, node2) -> bool:
             if not node1 and not node2:
                 return True
 
@@ -17,9 +17,9 @@ class Solution:
             if node1.val != node2.val:
                 return False
 
-            left = dfs(node1.left,node2.left)
-            right = dfs(node1.right, node2.right)
+            left = helper(node1.left,node2.left)
+            right = helper(node1.right, node2.right)
 
             return left and right
 
-        return dfs(p,q)
+        return helper(p,q)
