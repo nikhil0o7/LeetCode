@@ -8,3 +8,4 @@ class Solution:
                 heapq.heappop(heap)
 
         return heap[0]
+        
