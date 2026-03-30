@@ -9,7 +9,6 @@ class Solution:
 
             x = -heapq.heappop(heap)
             y = -heapq.heappop(heap)
-            # print(x,y)
             if x == y:
                 continue
             elif x != y:
