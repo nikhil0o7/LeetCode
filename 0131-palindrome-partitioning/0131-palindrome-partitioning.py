@@ -4,13 +4,13 @@ class Solution:
         res = []
         def dfs(i):
             if i >= len(s):
-                res.append(part[:])
+                res.append(part.copy())
                 return
 
             for j in range(i, len(s)):
                 if self.isPalindrome(s, i, j):
                     part.append(s[i: j +1])
-                    dfs(i + 1)
+                    dfs(j + 1)
                     part.pop()
 
         dfs(0)
