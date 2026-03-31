@@ -10,11 +10,9 @@ class Solution:
                 return
 
             for c in mapping[digits[i]]:
-                backtrack(i + 1, currStr + c)
+                backtrack(i+1 ,currStr + c)
 
 
+        backtrack(0, "")
 
-        if digits:
-            backtrack(0, "")
         return res
-        
