@@ -32,6 +32,7 @@ class Solution:
         dsu = DSU(n)
 
         for u,v in edges:
+            print(u,v)
             if not dsu.union(u, v):
                 return False
 
