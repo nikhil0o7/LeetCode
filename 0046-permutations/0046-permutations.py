@@ -4,7 +4,8 @@ class Solution:
         def backtrack(curr):
             if len(curr) == len(nums):
                 res.append(curr[:])
-                return
+                return 
+
             for num in nums:
                 if num not in curr:
                     curr.append(num)
@@ -13,4 +14,8 @@ class Solution:
 
         backtrack([])
         return res
+
+
+
+
         
