@@ -24,6 +24,5 @@ class Solution:
                         fresh -= 1
                         queue.append((curr_r,curr_c))
             time +=1
-        print(fresh,time)
         return time if fresh == 0 else - 1
         
