@@ -9,18 +9,17 @@ class Solution:
         seen = set()
         dist = 0
 
-        def addRoom(r,c):
-            if (r < 0 or r == ROWS or c < 0 or c == COLS or (r,c) in seen or rooms[r][c] == -1):
-                return 
-            seen.add((r,c))
-            queue.append([r,c])
-
-
         for r in range(ROWS):
             for c in range(COLS):
                 if rooms[r][c] == 0:
                     queue.append((r,c))
                     seen.add((r,c))
+
+        def addRoom(r,c):
+            if (0 > r or r == ROWS or 0 > c or c == COLS or (r,c) in seen or rooms[r][c] == -1):
+                return
+            queue.append((r,c))
+            seen.add((r,c))
 
 
         while queue:
@@ -32,4 +31,3 @@ class Solution:
                 addRoom(r, c + 1)
                 addRoom(r, c - 1)
             dist += 1
-
