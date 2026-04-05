@@ -8,8 +8,8 @@ class FileSystem:
         if path == "/" or len(path) == 0 or path in self.paths:
             return False
 
-        parent = path[:path.rfind("/")]
-        if len(parent) > 1 and parent not in self.paths:
+        parent = path.rsplit("/", 1)[0] or "/"
+        if parent!= "/" and parent not in self.paths:
             return False
 
         self.paths[path] = value
