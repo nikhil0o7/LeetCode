@@ -4,13 +4,16 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         i = len(nums) - 2
+        # so find the next decreasing element
         while i >= 0 and nums[i + 1] <= nums[i]:
             i -= 1
+        #Now make the smallest valid increase
         if i >= 0:
             j = len(nums) - 1
             while nums[j] <= nums[i]:
                 j -= 1
             self.swap(nums,i,j)
+        # now reverse the whole suffix since it's descending, you're gonna make it ascending
         self.reverse(nums, i + 1)
 
 
