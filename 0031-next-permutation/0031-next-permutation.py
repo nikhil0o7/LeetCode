@@ -15,7 +15,9 @@ class Solution:
             self.swap(nums,i,j)
         # now reverse the whole suffix since it's descending, you're gonna make it ascending
         self.reverse(nums, i + 1)
+        num = int("".join(str(d) for d in nums))
 
+        return num
 
     def reverse(self,nums, start):
         i = start
