@@ -1,7 +1,6 @@
 class Solution:
     def getOrder(self, tasks: List[List[int]]) -> List[int]:
         tasks = sorted([(start,dur,i) for i,(start,dur) in enumerate(tasks)],reverse=True)
-        
         next_available_t = 0
         queued_tasks = []
         
@@ -15,12 +14,11 @@ class Solution:
         
             # queue 'expired tasks'
             while tasks and tasks[-1][0] <= next_available_t:
-                start,dur,id = tasks.pop()
-                heappush(queued_tasks, (dur, id))
-            
+                start,dur,idx = tasks.pop()
+                heappush(queued_tasks, (dur, idx))
             # step 2
-            dur,id = heappop(queued_tasks)
+            dur,idx = heappop(queued_tasks)
             next_available_t += dur
-            res.append(id)
+            res.append(idx)
         
         return res
