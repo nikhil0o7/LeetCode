@@ -8,16 +8,14 @@ class Solution:
         if i < 0:
             return - 1
         #Now make the smallest valid increase
-        if i >= 0:
-            j = len(nums) - 1
-            while nums[j] <= nums[i]:
-                j -= 1
-            self.swap(nums,i,j)
-        # now reverse the whole suffix since it's descending, you're gonna make it ascending
-            self.reverse(nums, i + 1)
-            num = int("".join(str(d) for d in nums))
-            return num if num <= 2**31 - 1 else -1
-        return -1
+        j = len(nums) - 1
+        while nums[j] <= nums[i]:
+            j -= 1
+        self.swap(nums,i,j)
+    # now reverse the whole suffix since it's descending, you're gonna make it ascending
+        self.reverse(nums, i + 1)
+        num = int("".join(str(d) for d in nums))
+        return num if num <= 2**31 - 1 else -1
 
 
     def reverse(self,nums, start):
