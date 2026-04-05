@@ -328,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/nikhil0o7/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0428-serialize-and-deserialize-n-ary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0428-serialize-and-deserialize-n-ary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/nikhil0o7/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0556-next-greater-element-iii](https://github.com/nikhil0o7/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/nikhil0o7/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/nikhil0o7/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/nikhil0o7/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -377,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/nikhil0o7/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/nikhil0o7/LeetCode/tree/master/0392-is-subsequence) |
 | [0408-valid-word-abbreviation](https://github.com/nikhil0o7/LeetCode/tree/master/0408-valid-word-abbreviation) |
+| [0556-next-greater-element-iii](https://github.com/nikhil0o7/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/nikhil0o7/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/nikhil0o7/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/nikhil0o7/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -549,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0227-basic-calculator-ii](https://github.com/nikhil0o7/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/nikhil0o7/LeetCode/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/nikhil0o7/LeetCode/tree/master/0415-add-strings) |
+| [0556-next-greater-element-iii](https://github.com/nikhil0o7/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0973-k-closest-points-to-origin](https://github.com/nikhil0o7/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/nikhil0o7/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [2235-add-two-integers](https://github.com/nikhil0o7/LeetCode/tree/master/2235-add-two-integers) |
