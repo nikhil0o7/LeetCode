@@ -4,12 +4,11 @@ class Solution:
         ans = 0
 
         for num in s:
-            if (num - 1) not in s:
-                y = num
+            if num - 1 not in s:
+                y = num 
                 while y in s:
-                    y +=1
-                ans = max(ans, y - num)
+                    y += 1
+                    ans = max(ans, y - num)
+
         return ans
 
-
-        
