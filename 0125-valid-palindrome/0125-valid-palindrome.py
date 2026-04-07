@@ -6,7 +6,7 @@ class Solution:
         s = s.lower()
         while l < r:
             if s[l] == s[r]:
-                l += 1
+                l +=1 
                 r -= 1
             else:
                 return False
