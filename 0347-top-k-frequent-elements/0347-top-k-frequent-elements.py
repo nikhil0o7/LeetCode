@@ -2,7 +2,7 @@ class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         buckets = [[] for _ in range(len(nums) + 1)]
         countN = Counter(nums)
-        print(countN)
+        # print(countN)
         for num, freq in countN.items():
             buckets[freq].append(num)
 
