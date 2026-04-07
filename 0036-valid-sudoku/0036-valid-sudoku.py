@@ -13,15 +13,18 @@ class Solution:
 
                 if board[r][c] in cols[c]:
                     return False
-                cols[c].append(board[r][c])
-
+                cols[c].add(board[r][c])
 
                 if board[r][c] in rows[r]:
                     return False
-                rows[r].append(board[r][c])
+                rows[r].add(board[r][c])
 
-                box = board[r][c] // 3
+                curr_r = r // 3
+                curr_c = c // 3
+                if board[r][c] in squares[(curr_r,curr_c)]:
+                    return False
 
+                squares[(curr_r, curr_c)].add(board[r][c])
 
         return True
         
