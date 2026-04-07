@@ -1,10 +1,11 @@
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
+        ROWS = len(board)
+        COLS = len(board[0])
         rows = defaultdict(set)
         cols = defaultdict(set)
         squares = defaultdict(set)
-        ROWS = len(board)
-        COLS = len(board[0])
+
         for r in range(ROWS):
             for c in range(COLS):
                 if board[r][c] == ".":
@@ -12,18 +13,15 @@ class Solution:
 
                 if board[r][c] in cols[c]:
                     return False
-                cols[c].add(board[r][c])
+                cols[c].append(board[r][c])
+
 
                 if board[r][c] in rows[r]:
                     return False
-                rows[r].add(board[r][c])
+                rows[r].append(board[r][c])
 
-                curr_r = r // 3
-                curr_c = c // 3
-                if board[r][c] in squares[(curr_r,curr_c)]:
-                    return False
+                box = board[r][c] // 3
 
-                squares[(curr_r,curr_c)].add(board[r][c])
+
         return True
-
-
+        
