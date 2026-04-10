@@ -13,7 +13,7 @@ class Solution:
             nonlocal ans
             if node.val >= maxVal:
                 ans +=1
-            maxVal = max(maxVal,node.val)
+                maxVal = node.val
             dfs(node.left, maxVal)
             dfs(node.right, maxVal)
 
