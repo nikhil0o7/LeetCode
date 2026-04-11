@@ -1,7 +1,6 @@
 class Solution:
     def combinationSum3(self, k: int, n: int) -> List[List[int]]:
         results = []
-
         def backtrack(remain, comb, next_start):
             if remain == 0 and len(comb) == k:
                 results.append(comb[:])
