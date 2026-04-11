@@ -530,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/nikhil0o7/LeetCode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nikhil0o7/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/nikhil0o7/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/nikhil0o7/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/nikhil0o7/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/nikhil0o7/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/nikhil0o7/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -545,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/nikhil0o7/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nikhil0o7/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0225-implement-stack-using-queues](https://github.com/nikhil0o7/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0271-encode-and-decode-strings](https://github.com/nikhil0o7/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0284-peeking-iterator](https://github.com/nikhil0o7/LeetCode/tree/master/0284-peeking-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -679,4 +681,8 @@ Collection of LeetCode questions to ace the coding interview!
 | [0208-implement-trie-prefix-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nikhil0o7/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1166-design-file-system](https://github.com/nikhil0o7/LeetCode/tree/master/1166-design-file-system) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/nikhil0o7/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
