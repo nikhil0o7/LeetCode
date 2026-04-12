@@ -2,12 +2,14 @@ class Solution:
     def fib(self, n: int) -> int:
         if n == 0:
             return 0
-        dp = [-1] * (n + 1)
-        dp[0] = 0
-        dp[1] = 1
-        print(dp)
-        for i in range(2, n + 1):
-            dp[i] = dp[i - 1] + dp[i -2]
-
-        return dp[n]
+        if n == 1:
+            return 1
+        curr = 0
+        num2 = 0
+        num1 = 1
+        for i in range(1, n):
+            curr = num1 + num2
+            num2 = num1
+            num1 = curr
+        return curr
         
