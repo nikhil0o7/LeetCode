@@ -4,11 +4,13 @@ class Solution:
             return 1
         if n == 2:
             return 2
+        curr = 0 
+        step1 = 1
+        step2 = 2
+        for i in range(2, n):
+            curr = step1 + step2
+            step1 = step2
+            step2 = curr
 
-        dp = [0 for _ in range(n + 1)]
-        dp[1] = 1
-        dp[2] = 2
-        for i in range(3, n + 1):
-            dp[i] = dp[i- 1] + dp[i - 2]
-
-        return dp[n]
+        return curr
+        
