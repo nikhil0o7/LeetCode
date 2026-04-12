@@ -1,22 +1,20 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        if len(nums) == 1:
+        memo = {}
+        n = len(nums)
+        if n == 1:
             return nums[0]
+        def helper(i, nums, memo):
+            if i >= len(nums):
+                return 0
 
-        return max(self.helper(nums[1:]), self.helper(nums[:-1]))
+            if i in memo:
+                return memo[i]
 
+            ans = max(helper(i + 1, nums, memo), helper(i + 2, nums, memo) + nums[i])
 
-    def helper(self, nums) -> int:
-        if not nums:
-            return nums
-        if len(nums) == 1:
-            return nums[0]
+            memo[i] = ans
 
-        dp = [0] * len(nums)
-        dp[0]= nums[0]
-        dp[1] = max(nums[0],nums[1])
-
-        for i in range(2, len(nums)):
-            dp[i] = max(dp[i - 1], nums[i] +  dp[i - 2])
-
-        return dp[-1]
+            return ans
+        return max(helper(0, nums[:-1], {}), helper(0, nums[1:], {}))
+        
