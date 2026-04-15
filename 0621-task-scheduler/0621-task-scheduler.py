@@ -4,24 +4,20 @@ class Solution:
         maxHeap = [-cnt for cnt in count.values()]
         heapq.heapify(maxHeap)
 
-
-        queue =deque()
-        time = 0
+        queue = deque() #[cnt,idleTime]
+        time = 0 
         while queue or maxHeap:
-            time += 1
+            time +=1
 
             if not maxHeap:
                 time = queue[0][1]
-
             else:
                 cnt = 1 + heapq.heappop(maxHeap)
                 if cnt:
-                    queue.append((cnt, time + n))
+                    queue.append([cnt, time + n])
             if queue and queue[0][1] == time:
                 heapq.heappush(maxHeap, queue.popleft()[0])
 
-        
-        return time
 
-        
+        return time
         
