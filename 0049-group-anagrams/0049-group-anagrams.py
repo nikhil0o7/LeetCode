@@ -3,10 +3,6 @@ class Solution:
         d = defaultdict(list)
         for s in strs:
             sorted_str = "".join(sorted(s))
-            if sorted_str in d:
-                d[sorted_str].append(s)
-            else:
-                d[sorted_str] = [s]
-
+            d[sorted_str].append(s)
         return list(d.values())
         
