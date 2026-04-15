@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/nikhil0o7/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/nikhil0o7/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nikhil0o7/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/nikhil0o7/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nikhil0o7/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/nikhil0o7/LeetCode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhil0o7/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -567,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/nikhil0o7/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/nikhil0o7/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/nikhil0o7/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/nikhil0o7/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nikhil0o7/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nikhil0o7/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/nikhil0o7/LeetCode/tree/master/0227-basic-calculator-ii) |
@@ -694,4 +696,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nikhil0o7/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nikhil0o7/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/nikhil0o7/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
