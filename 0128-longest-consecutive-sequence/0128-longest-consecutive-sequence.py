@@ -7,6 +7,6 @@ class Solution:
                 y = num 
                 while y in s:
                     y += 1
-                    ans = max(ans, y - num)
+                ans = max(ans, y - num)
 
         return ans
