@@ -4,11 +4,8 @@ class Solution:
         maxProfit = 0
         for i in range(1, len(prices)):
             if prices[i] - minPrice > maxProfit:
-                maxProfit = prices[i] - minPrice 
-            elif prices[i] < minPrice:
+                maxProfit = prices[i] - minPrice
+            elif minPrice > prices[i]:
                 minPrice = prices[i]
-
         return maxProfit
-
-
         
