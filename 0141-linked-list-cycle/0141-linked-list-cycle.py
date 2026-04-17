@@ -7,11 +7,13 @@
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
         slow = head
-        fast = head.next if head else None
+        fast = head.next
 
-        while fast and fast.next:
+        while slow and fast:
             if slow == fast:
                 return True
-            slow = slow.next
+
+            slow = slow.next 
             fast = fast.next.next
+
         return False
