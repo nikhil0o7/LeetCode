@@ -8,14 +8,15 @@ class Solution:
                 return
 
             for num in nums:
-                if num not in curr:
-                    curr.append(num)
-                    used.add(num)
-                    
-                    backtrack(curr)
+                if num in used:
+                    continue
+                curr.append(num)
+                used.add(num)
 
-                    used.remove(num)
-                    curr.pop()
+                backtrack(curr)
+
+                used.remove(num)
+                curr.pop()
 
         backtrack([])
         return res
