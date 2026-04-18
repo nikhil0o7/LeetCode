@@ -16,11 +16,13 @@ class Solution:
 
             curr = l1v + l2v + carry
             carry = curr // 10
-            ans = curr % 10
-            res.next = ListNode(ans)
+            curr = curr % 10
+            res.next = ListNode(curr)
             res = res.next
 
             l1 = l1.next if l1 else None
             l2 = l2.next if l2 else None
-        
+
         return dummy.next
+
+        
