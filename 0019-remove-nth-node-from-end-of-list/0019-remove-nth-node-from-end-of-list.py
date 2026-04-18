@@ -9,14 +9,15 @@ class Solution:
         left = dummy
         right = head
 
-        while n > 0 :
+        while n > 0:
             right = right.next
             n -= 1
 
         while right:
-            right = right.next
             left = left.next
+            right = right.next
 
         left.next = left.next.next
+
         return dummy.next
         
