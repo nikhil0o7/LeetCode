@@ -8,10 +8,11 @@ class Solution:
                 return
 
             for j in range(i, len(candidates)):
-                if candidates[j] + total <= target:
-                    curr.append(candidates[j])
-                    backtrack(curr, total + candidates[j], j)
-                    curr.pop()
+                if candidates[j] + total > target:
+                    break
+                curr.append(candidates[j])
+                backtrack(curr, total + candidates[j], j)
+                curr.pop()
 
         backtrack([], 0, 0)
         return res
