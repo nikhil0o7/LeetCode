@@ -14,11 +14,12 @@ class Solution:
         #find the middle of the linked list
         slow = fast = head
         while fast and fast.next:
-            slow= slow.next
+            slow = slow.next
             fast = fast.next.next
 
         #reverse the second half
-        prev, curr = None,slow
+        prev, curr = None, slow
+
         while curr:
             temp = curr.next
             curr.next = prev
@@ -28,7 +29,7 @@ class Solution:
         #merge first and reversed second halfs
         first, second = head, prev
         while second.next:
-            first.next,first = second,first.next
+            first.next, first =  second, first.next
             second.next,second = first,second.next
         
         
