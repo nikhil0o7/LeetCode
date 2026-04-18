@@ -10,28 +10,25 @@ class Solution:
         """
         if not head:
             return
-        slow = head
-        fast = head.next
 
+        #find the middle of the linked list
+        slow = fast = head
         while fast and fast.next:
-            slow = slow.next
+            slow= slow.next
             fast = fast.next.next
 
-        second = slow.next
-        prev = slow.next = None
-        while second:
-            temp = second.next
-            second.next = prev
-            prev = second
-            second = temp
+        #reverse the second half
+        prev, curr = None,slow
+        while curr:
+            temp = curr.next
+            curr.next = prev
+            prev = curr
+            curr = temp
+            
+        #merge first and reversed second halfs
+        first, second = head, prev
+        while second.next:
+            first.next,first = second,first.next
+            second.next,second = first,second.next
         
-        first , second = head,prev
-
-        while first and second:
-            tmp1, tmp2 = first.next,second.next
-            first.next = second
-            second.next = tmp1
-            first, second = tmp1,tmp2
-
-
         
