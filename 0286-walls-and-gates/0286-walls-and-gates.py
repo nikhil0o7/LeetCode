@@ -5,9 +5,9 @@ class Solution:
         """
         ROWS = len(rooms)
         COLS = len(rooms[0])
-        dist = 0
         seen = set()
-        queue = deque()
+        dist = 0
+        queue = deque([])
 
         for r in range(ROWS):
             for c in range(COLS):
@@ -16,7 +16,7 @@ class Solution:
                     seen.add((r,c))
 
         def addRoom(r,c):
-            if (0 > r or r == ROWS or 0 > c or c == COLS or rooms[r][c] == -1 or (r,c) in seen):
+            if 0 > r or r == ROWS or 0 > c or c == COLS or (r,c) in seen or rooms[r][c] == -1: 
                 return
             queue.append((r,c))
             seen.add((r,c))
@@ -31,6 +31,12 @@ class Solution:
                 addRoom(r, c + 1)
                 addRoom(r, c - 1)
 
-            dist += 1
+            dist +=1
+
+
+                
+
+
+
 
         
