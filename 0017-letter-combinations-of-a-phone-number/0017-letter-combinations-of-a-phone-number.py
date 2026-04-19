@@ -5,7 +5,7 @@ class Solution:
 
         res = []
         def backtrack(i, currStr):
-            if len(currStr) == digits:
+            if len(currStr) == len(digits):
                 res.append(currStr)
                 return
 
