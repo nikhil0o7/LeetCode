@@ -27,8 +27,10 @@ class Solution:
                 posDiag.remove(r + c)
                 negDiag.remove(r - c)
                 board[r][c] = "."
+
         backtrack(0)
         return res
+      
 
 
         
