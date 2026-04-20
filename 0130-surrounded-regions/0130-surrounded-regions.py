@@ -20,7 +20,7 @@ class Solution:
                     board[r][c] = "T"
                     for dr,dc in directions:
                         row,col = r + dr, c + dc
-                        if (0 <= row < ROWS and 0 <= col < COLS and board[r][c] == "O"):
+                        if (0 <= row < ROWS and 0 <= col < COLS):
                             queue.append((row,col))
 
         for r in range(ROWS):
