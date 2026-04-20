@@ -3,29 +3,31 @@ class Solution:
         """
         Do not return anything, modify board in-place instead.
         """
-        ROWS,COLS = len(board), len(board[0])
-        directions = [(1,0),(-1,0),(0,1),(0,-1)]
-        q = deque()
-
+        ROWS = len(board)
+        COLS = len(board[0])
+        queue = deque()
+        
         for r in range(ROWS):
             for c in range(COLS):
-                if(r == 0 or r == ROWS - 1 or c == 0 or c == COLS - 1) and board[r][c] == "O":
-                    q.append((r,c))
+                if (r == 0 or r == ROWS - 1 or c == 0 or c == COLS - 1) and board[r][c] == "O":
+                    queue.append((r,c))
 
-        
-        while q:
-            r,c = q.popleft()
-            if board[r][c] == "O":
-                board[r][c] = "T"
-                for dx,dy in directions:
-                    curr_r , curr_c = dx + r, dy + c
-                    if (0 <= curr_r < ROWS and 0 <= curr_c < COLS):
-                        q.append((curr_r,curr_c))
+        directions = [(0,1),(0,-1),(1,0),(-1,0)]
+        while queue:
+            for i in range(len(queue)):
+                r,c = queue.popleft()
+                if board[r][c] == "O":
+                    board[r][c] = "T"
+                    for dr,dc in directions:
+                        row,col = r + dr, c + dc
+                        if (0 <= row < ROWS and 0 <= col < COLS and board[r][c] == "O"):
+                            queue.append((row,col))
 
         for r in range(ROWS):
             for c in range(COLS):
                 if board[r][c] == "O":
                     board[r][c] = "X"
-                if board[r][c] == "T":
+                elif board[r][c] == "T":
                     board[r][c] = "O"
-
+            
+        
