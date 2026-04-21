@@ -9,8 +9,8 @@ class DSU:
         return self.Parent[node]
 
     def union(self,u,v) -> bool:
-        pu = self.Parent[u]
-        pv = self.Parent[v]
+        pu = self.find(u)
+        pv = self.find(v)
         if pu == pv:
             return False
         if self.Size[pv] > self.Size[pu]:
