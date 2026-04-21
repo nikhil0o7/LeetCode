@@ -2,43 +2,35 @@ class DSU:
     def __init__(self,n):
         self.comps = n
         self.Parent = list(range(n))
-        self.Size = [1] * (n) 
+        self.Size = [1] * n
 
     def find(self,node):
         if self.Parent[node] != node:
             self.Parent[node] = self.find(self.Parent[node])
         return self.Parent[node]
 
+    def getComponents(self):
+        return self.comps
+    
     def union(self,u,v):
         pu = self.find(u)
         pv = self.find(v)
         if pu == pv:
             return False
+        if self.Size[pu] < self.Size[pv]:
+            pu,pv = pv,pu
         self.comps -= 1
-        if self.Size[pv] < self.Size[pu]:
-            pv,pu = pu,pv
-        self.Size[pu] += self.Size[pu]
         self.Parent[pv] = pu
-
+        self.Size[pu] += pv
         return True
-
-    def components(self):
-        return self.comps
-
+    
 class Solution:
     def validTree(self, n: int, edges: List[List[int]]) -> bool:
-        if len(edges) > n - 1:
-            return False
-        
+        N = len(edges)
         dsu = DSU(n)
-
-        for u,v in edges:
-            if not dsu.union(u,v):
+        for n1,n2 in edges:
+            if not dsu.union(n1,n2):
                 return False
-
-        return dsu.components() == 1
-
-        
-
-
+        print(dsu.getComponents())
+        return dsu.getComponents() == 1
         
