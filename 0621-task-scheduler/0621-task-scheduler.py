@@ -18,6 +18,5 @@ class Solution:
             if queue and queue[0][1] == time:
                 heapq.heappush(maxHeap, queue.popleft()[0])
 
-
         return time
         
