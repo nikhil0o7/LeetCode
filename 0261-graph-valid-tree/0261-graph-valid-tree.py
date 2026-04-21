@@ -31,6 +31,6 @@ class Solution:
         for n1,n2 in edges:
             if not dsu.union(n1,n2):
                 return False
-        print(dsu.getComponents())
+        # print(dsu.getComponents())
         return dsu.getComponents() == 1
         
