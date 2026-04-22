@@ -1,6 +1,6 @@
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
-        ans = 0
+        ans = float("-inf")
         temp = 0
         for num in nums:
             temp += num
