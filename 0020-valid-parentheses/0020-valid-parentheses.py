@@ -1,8 +1,8 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         d = {
-            ')' : '(',
             ']' : '[',
+            ')' : '(',
             '}' : '{'
         }
         stack = []
@@ -16,7 +16,5 @@ class Solution:
             else:
                 stack.append(ch)
 
-
         return len(stack) == 0
-
         
