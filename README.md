@@ -226,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1480-running-sum-of-1d-array](https://github.com/nikhil0o7/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1834-single-threaded-cpu](https://github.com/nikhil0o7/LeetCode/tree/master/1834-single-threaded-cpu) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/nikhil0o7/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [1929-concatenation-of-array](https://github.com/nikhil0o7/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2126-destroying-asteroids](https://github.com/nikhil0o7/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/nikhil0o7/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2465-shifting-letters-ii](https://github.com/nikhil0o7/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -643,6 +644,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/nikhil0o7/LeetCode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/nikhil0o7/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/nikhil0o7/LeetCode/tree/master/0735-asteroid-collision) |
+| [1929-concatenation-of-array](https://github.com/nikhil0o7/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Memoization
 |  |
 | ------- |
