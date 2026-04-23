@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/nikhil0o7/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/nikhil0o7/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/nikhil0o7/LeetCode/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/nikhil0o7/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nikhil0o7/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/nikhil0o7/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nikhil0o7/LeetCode/tree/master/0079-word-search) |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nikhil0o7/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/nikhil0o7/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/nikhil0o7/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/nikhil0o7/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikhil0o7/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/nikhil0o7/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/nikhil0o7/LeetCode/tree/master/0133-clone-graph) |
@@ -479,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nikhil0o7/LeetCode/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/nikhil0o7/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nikhil0o7/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/nikhil0o7/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/nikhil0o7/LeetCode/tree/master/0130-surrounded-regions) |
