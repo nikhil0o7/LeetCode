@@ -7,7 +7,6 @@ class Solution:
                 if isConnected[i][j]:
                     graph[i].append(j)
                     graph[j].append(i)
-
         seen = set()
         ans = 0 
         def dfs(node):
