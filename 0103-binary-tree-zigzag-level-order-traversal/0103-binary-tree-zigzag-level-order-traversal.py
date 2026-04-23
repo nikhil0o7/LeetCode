@@ -14,7 +14,7 @@ class Solution:
         level = 0
         while queue:
             n = len(queue)
-            curr_stage = []
+            curr_stage = deque()
             for i in range(n):
                 curr = queue.popleft()
 
@@ -27,9 +27,9 @@ class Solution:
                 if level % 2 == 0:
                     curr_stage.append(curr.val)
                 else:
-                    curr_stage.insert(0, curr.val)
-                    
-            ans.append(curr_stage)
+                    curr_stage.appendleft(curr.val)
+
+            ans.append(list(curr_stage))
             level += 1
 
         return ans
