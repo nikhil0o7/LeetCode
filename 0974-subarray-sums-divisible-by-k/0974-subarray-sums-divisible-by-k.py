@@ -6,11 +6,7 @@ class Solution:
         for num in nums:
             prefix_sum += num
             mod = prefix_sum % k
-            if mod < 0:
-                mod += k
             result += prefix_map.get(mod, 0)
             prefix_map[mod] = prefix_map.get(mod, 0) + 1
 
         return result
-        
-        
