@@ -28,9 +28,7 @@ class Solution:
                     curr_stage.append(curr.val)
                 else:
                     curr_stage.insert(0, curr.val)
-
-
-
+                    
             ans.append(curr_stage)
             level += 1
 
