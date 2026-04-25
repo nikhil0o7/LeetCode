@@ -5,7 +5,7 @@ class Solution:
         for i in range(len(nums) - 1):
             if nums[i] > 0:
                 break
-            elif nums[i] == 0 or nums[i - 1] != nums[i]:
+            elif i == 0 or nums[i - 1] != nums[i]:
                 self.twoSum(nums,i,ans)
 
         return ans
