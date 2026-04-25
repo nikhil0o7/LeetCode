@@ -16,7 +16,7 @@ class Solution:
                     return False
                 rowset[r].add(board[r][c])
 
-                if (r,c) in colset[c]:
+                if board[r][c] in colset[c]:
                     return False
                 colset[c].add(board[r][c])
 
