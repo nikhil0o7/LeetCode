@@ -3,11 +3,11 @@ class Solution:
         pairs = [[p,s] for p,s in zip(position,speed)]
         pairs.sort(reverse = True)
         stack = []
-
         for p,s in pairs:
-            curr_time = (target - p) /s
-            stack.append(curr_time)
-            while len(stack) >= 2 and stack[-1] <= stack[-2]:
+            curr_speed = (target - p) / s
+            stack.append(curr_speed)
+            while len(stack) >= 2 and stack[-2] >= stack[-1]:
                 stack.pop()
 
         return len(stack)
+        
