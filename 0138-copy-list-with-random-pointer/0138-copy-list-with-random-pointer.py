@@ -9,18 +9,23 @@ class Node:
 
 class Solution:
     def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
-        oldToCopy = { None: None }
-        curr = head
-        while curr:
-            copy = Node(curr.val)
-            oldToCopy[curr] = copy
-            curr = curr.next
+        #None is an edge case where if we have an None, we will give it a None. will make sense if you traferse
+        oldToCopy = { None:None }
 
-        curr = head
-        while curr:
-            copy = oldToCopy[curr]
-            copy.next = oldToCopy[curr.next]
-            copy.random = oldToCopy[curr.random]
-            curr = curr.next
-            
+        #cloning the linkedlist to hashmap
+        cur = head
+        while cur:
+            copy = Node(cur.val)
+            oldToCopy[cur] = copy
+            cur = cur.next
+
+        #in second pass we actually create the clone leveragin the hashmap
+        cur = head
+        while cur:
+            copy = oldToCopy[cur]
+            copy.next = oldToCopy[cur.next]
+            copy.random = oldToCopy[cur.random]
+            cur = cur.next
+        
         return oldToCopy[head]
+        
