@@ -6,8 +6,7 @@ class Solution:
             if num - 1 not in nums:
                 y = num
                 while y in nums:
-                    y = y + 1
+                    y +=1
+
                 ans = max(ans, y - num)
         return ans
-
-        
