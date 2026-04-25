@@ -2,37 +2,28 @@ class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
         if len(s1) > len(s2):
             return False
-        s1Count , s2Count = [0] * 26, [0] * 26
+
+        s1_char_freq_arr = [0] * 26
+        s2_window_char_freq_arr = [0] * 26
+
         for i in range(len(s1)):
-            s1Count[ord(s1[i]) - ord('a')] += 1  
-            s2Count[ord(s2[i]) - ord('a')] += 1  
+            s1_char_freq_arr[ord(s1[i]) - ord('a')] += 1
+            s2_window_char_freq_arr[ord(s2[i]) - ord('a')] += 1
+        # print(s1_char_freq_arr,s2_window_char_freq_arr)
+        if s1_char_freq_arr == s2_window_char_freq_arr:
+            print(s1_char_freq_arr,s2_window_char_freq_arr)
+            return True
 
-        matches = 0 
-        for i in range(26):
-            matches += (1 if s1Count[i] == s2Count[i] else 0)
+        for i in range(len(s2) - len(s1)):
+            s2_window_char_freq_arr[ord(s2[i]) - ord('a')] -= 1
+            s2_window_char_freq_arr[ord(s2[i + len(s1)]) - ord('a')] += 1
 
 
-        l = 0
-        for r in range(len(s1), len(s2)):
-            if matches == 26:
+            if s1_char_freq_arr == s2_window_char_freq_arr:
+                print(s1_char_freq_arr,s2_window_char_freq_arr)
                 return True
 
-            index = ord(s2[r]) - ord('a')
-            s2Count[index] += 1
-            if s1Count[index] == s2Count[index]:
-                matches += 1
-            elif s1Count[index] + 1 == s2Count[index]:
-                matches -= 1
+        return False
 
-            
-            index = ord(s2[l]) - ord('a')
-            s2Count[index] -= 1
-            if s1Count[index] == s2Count[index]:
-                matches += 1
-            elif s1Count[index] - 1 == s2Count[index]:
-                matches -= 1
-            l+=1
-        return matches == 26
-            
 
         
