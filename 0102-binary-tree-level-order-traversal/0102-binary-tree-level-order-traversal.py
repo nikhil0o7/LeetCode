@@ -11,19 +11,18 @@ class Solution:
         ans = []
         queue = deque([root])
         while queue:
-            size = len(queue)
+            n = len(queue)
             curr_level = []
-
-            for i in range(size):
+            for i in range(n):
                 curr = queue.popleft()
-                print(curr.val)
-                curr_level.append(curr.val)
 
                 if curr.left:
                     queue.append(curr.left)
 
                 if curr.right:
                     queue.append(curr.right)
+
+                curr_level.append(curr.val)
 
             ans.append(curr_level)
 
