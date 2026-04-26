@@ -10,7 +10,5 @@ class Solution:
         for t in time:
             count += t[1]
             res = max(count,res)
-
-
         return res
         
