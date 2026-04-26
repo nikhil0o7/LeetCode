@@ -4,20 +4,13 @@ class Solution:
         heapq.heapify(heap)
         for stone in stones:
             heapq.heappush(heap, -stone)
-
-        while heap and len(heap) > 1:
-
+        while len(heap) > 1:
             x = heapq.heappop(heap)
             y = heapq.heappop(heap)
-
-
             if x == y:
                 continue
-            else:
-                curr = abs(x - y)
-                heapq.heappush(heap, -curr)
+            elif x!=y:
+                s = x - y
+                heapq.heappush(heap,s)
 
-        return -heap[0] if heap else 0
-            
-
-        
+        return -heap[0] if len(heap) > 0 else 0
