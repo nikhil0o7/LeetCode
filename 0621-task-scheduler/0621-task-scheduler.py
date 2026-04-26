@@ -2,12 +2,11 @@ class Solution:
     def leastInterval(self, tasks: List[str], n: int) -> int:
         count = Counter(tasks)
         maxHeap = [-cnt for cnt in count.values()]
-        heapq.heapify(maxHeap)
+        queue = deque()
 
-        queue = deque() #[cnt,idleTime]
-        time = 0 
+        time = 0
         while queue or maxHeap:
-            time +=1
+            time += 1
 
             if not maxHeap:
                 time = queue[0][1]
@@ -19,4 +18,4 @@ class Solution:
                 heapq.heappush(maxHeap, queue.popleft()[0])
 
         return time
-        
+                    
