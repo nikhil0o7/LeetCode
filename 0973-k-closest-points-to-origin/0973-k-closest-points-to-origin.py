@@ -6,13 +6,13 @@ class Solution:
 
         heapq.heapify(heap)
         for i in range(k, len(points)):
-            dist = -self.squared_distance(points[i])
-            if dist > heap[0][0]:
-                heapq.heappushpop(heap, (dist,i))
+            curr = -self.squared_distance(points[i])
+            if curr > heap[0][0]:
+                heapq.heappushpop(heap,(curr,i))
+
+        return [points[i] for (_ ,i) in heap]
 
 
-        return [points[i] for (_,i) in heap]
-
-    def squared_distance(self, points) -> int:
-        return points[0] ** 2 + points[1] ** 2
+    def squared_distance(self, point: List[int]) -> int:
+        return point[0] ** 2 + point[1] **2
         
