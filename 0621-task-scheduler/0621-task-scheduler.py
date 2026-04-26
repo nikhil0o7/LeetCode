@@ -3,6 +3,7 @@ class Solution:
         count = Counter(tasks)
         maxHeap = [-cnt for cnt in count.values()]
         queue = deque()
+        heapq.heapify(maxHeap)
 
         time = 0
         while queue or maxHeap:
