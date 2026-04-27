@@ -1,27 +1,25 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
+        adj = [[] for _ in range(numCourses)]
         indegree = [0] * numCourses
-        adj = [[] for i in range(numCourses)]
         for src,dst in prerequisites:
-            indegree[dst] += 1
             adj[src].append(dst)
+            indegree[dst] +=1
 
-        q= deque()
+        queue = deque()
         for i in range(numCourses):
             if indegree[i] == 0:
-                q.append(i)
+                queue.append(i)
 
-        output = []
-        finish = 0
-        while q:
-            node = q.popleft()
-            finish += 1
-            output.append(node)
-            for n in adj[node]:
-                indegree[n] -=1
-                if indegree[n] == 0:
-                    q.append(n)     
-        if finish != numCourses:
-            return []
+        order = []
+        while queue:
+            curr = queue.popleft()
+            order.append(curr)
+            for i in adj[curr]:
+                indegree[i] -=1
+                if indegree[i] == 0:
+                    queue.append(i)
+        
+        return order[::-1] if len(order) == numCourses else []        
 
-        return output[::-1]
+        
