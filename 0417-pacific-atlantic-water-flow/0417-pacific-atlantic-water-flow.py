@@ -20,8 +20,6 @@ class Solution:
                     if (0 <= row < ROWS and 0 <= col < COLS and not ocean[row][col] and heights[row][col] >= heights[r][c]):
                         queue.append((row,col))
 
-
-
         for r in range(ROWS):
             pacific.append((r,0))
             atlantic.append((r,COLS - 1))
