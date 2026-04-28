@@ -5,8 +5,10 @@ class DSU:
         self.components = n
 
     def find(self,node) -> int:
+        # print("call 1: ",self.Parent,self.Parent[node])
         if self.Parent[node] != node:
             self.Parent[node] = self.find(self.Parent[node])
+        # print(self.Parent,self.Parent[node],self.Size)
         return self.Parent[node]
 
     def union(self,u,v) -> bool: 
@@ -18,7 +20,7 @@ class DSU:
             pu,pv = pv,pu
         self.components -= 1
         self.Parent[pv] = pu
-        self.Size[pu] += pv
+        self.Size[pu] += self.Size[pv]
         return True
 
     def getComponents(self):
