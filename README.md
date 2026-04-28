@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/nikhil0o7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/nikhil0o7/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/nikhil0o7/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/nikhil0o7/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0252-meeting-rooms](https://github.com/nikhil0o7/LeetCode/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/nikhil0o7/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0271-encode-and-decode-strings](https://github.com/nikhil0o7/LeetCode/tree/master/0271-encode-and-decode-strings) |
@@ -453,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhil0o7/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/nikhil0o7/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/nikhil0o7/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil0o7/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/nikhil0o7/LeetCode/tree/master/0355-design-twitter) |
@@ -536,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhil0o7/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/nikhil0o7/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhil0o7/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/nikhil0o7/LeetCode/tree/master/0567-permutation-in-string) |
 ## Stack
@@ -711,8 +714,13 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nikhil0o7/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nikhil0o7/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/nikhil0o7/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nikhil0o7/LeetCode/tree/master/0062-unique-paths) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/nikhil0o7/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
