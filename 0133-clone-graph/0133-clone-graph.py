@@ -8,9 +8,9 @@ class Node:
 
 from typing import Optional
 class Solution:
-    def cloneGraph(self, root: Optional['Node']) -> Optional['Node']:
-        if not root:
-            return
+    def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
+        if not node:
+            return 
         
         oldToNew = {}
         def dfs(node):
@@ -21,8 +21,11 @@ class Solution:
             oldToNew[node] = copy
             for neighbor in node.neighbors:
                 copy.neighbors.append(dfs(neighbor))
+
             return copy
 
+        return dfs(node)
 
-        return dfs(root)
+
+
         
