@@ -5,7 +5,6 @@ class Solution:
         col = set()
         res = []
         board = [["."] * n for _ in range(n)]
-        print(board)
         def backtrack(r):
             if r == n:
                 copy = ["".join(row) for row in board]
