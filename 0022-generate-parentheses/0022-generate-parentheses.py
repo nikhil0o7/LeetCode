@@ -5,8 +5,8 @@ class Solution:
             if (openN + closedN) == (n * 2):
                 res.append("".join(curr))
                 return 
-            if (openN + closedN) > (n * 2):
-                return 
+            # if (openN + closedN) > (n * 2):
+            #     return 
 
             if openN < n:
                 curr.append("(")
