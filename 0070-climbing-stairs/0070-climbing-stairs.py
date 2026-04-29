@@ -4,11 +4,10 @@ class Solution:
             return 1
         step1 = 1
         step2 = 2
-        curr = step2
         for i in range(2, n):
-            curr = step2 + step1
-            step1 = step2
-            step2 = curr
+            temp = step2
+            step2 = step1 + step2
+            step1 = temp
 
-        return curr
+        return step2
         
