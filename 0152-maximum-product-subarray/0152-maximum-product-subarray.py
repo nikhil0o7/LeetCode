@@ -18,5 +18,3 @@ class Solution:
             result = max(max_so_far, result)
 
         return result
-
-        
