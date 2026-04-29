@@ -5,7 +5,7 @@ class Solution:
             if len(curr) == len(nums):
                 res.append(curr[:])
                 return
-
+            
             for num in nums:
                 if num in curr:
                     continue
