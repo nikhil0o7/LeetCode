@@ -1,32 +1,33 @@
 class Solution:
     def maxAreaOfIsland(self, grid: List[List[int]]) -> int:
+        ans = 0
         ROWS = len(grid)
         COLS = len(grid[0])
-        area = 0
-        directions = [(0,1),(0,-1),(1,0),(-1,0)]
         seen = set()
+        directions = [(0,1),(0,-1),(1,0),(-1,0)]
 
-        def valid_cell(r,c):
-            return 0 <= r < ROWS and 0 <= c < COLS and grid[r][c] == 1
+        def valid_cell(dr,dc):
+            return 0 <= dr < ROWS and 0 <= dc < COLS and grid[dr][dc] == 1
+
+
         for r in range(ROWS):
             for c in range(COLS):
-                if grid[r][c]==1:
-                    stack = []
-                    stack.append((r,c))
+                curr = 0
+                if grid[r][c] == 1 and (r,c) not in seen:
                     seen.add((r,c))
-                    shape = 0
+                    stack = []
+                    curr += 1
+                    stack.append((r,c))
                     while stack:
-                        r,c = stack.pop()
-                        shape +=1
+                        curr_r,curr_c = stack.pop()
                         for dx,dy in directions:
-                            curr_r = r + dx
-                            curr_c = c + dy
-                            if valid_cell(curr_r,curr_c) and (curr_r,curr_c) not in seen:
-                                seen.add((curr_r,curr_c))
-                                stack.append((curr_r,curr_c))
+                            dr,dc = dx + curr_r ,dy + curr_c
+                            if valid_cell(dr,dc) and (dr,dc) not in seen :
+                                curr += 1
+                                seen.add((dr,dc))
+                                stack.append((dr,dc))
+                            
+                    ans = max(ans, curr)
 
-                    area = max(shape,area)
 
-        return area
-
-        
+        return ans
