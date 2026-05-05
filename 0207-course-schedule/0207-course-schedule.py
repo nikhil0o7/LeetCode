@@ -1,7 +1,7 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        adj = [[] for _ in range(numCourses)]
         indegree = [0] * numCourses
+        adj = [[] for _ in range(numCourses)]
         for src,dst in prerequisites:
             adj[src].append(dst)
             indegree[dst] += 1
@@ -10,7 +10,7 @@ class Solution:
         for i in range(numCourses):
             if indegree[i] == 0:
                 queue.append(i)
-
+        
         finish = 0
         while queue:
             curr = queue.popleft()
@@ -19,6 +19,5 @@ class Solution:
                 indegree[i] -= 1
                 if indegree[i] == 0:
                     queue.append(i)
-
+        print(finish)
         return finish == numCourses
-        
