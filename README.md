@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0286-walls-and-gates](https://github.com/nikhil0o7/LeetCode/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/nikhil0o7/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nikhil0o7/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0305-number-of-islands-ii](https://github.com/nikhil0o7/LeetCode/tree/master/0305-number-of-islands-ii) |
 | [0322-coin-change](https://github.com/nikhil0o7/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil0o7/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/nikhil0o7/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0208-implement-trie-prefix-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/nikhil0o7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nikhil0o7/LeetCode/tree/master/0242-valid-anagram) |
+| [0305-number-of-islands-ii](https://github.com/nikhil0o7/LeetCode/tree/master/0305-number-of-islands-ii) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/nikhil0o7/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil0o7/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/nikhil0o7/LeetCode/tree/master/0355-design-twitter) |
@@ -650,6 +652,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/nikhil0o7/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nikhil0o7/LeetCode/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0261-graph-valid-tree) |
+| [0305-number-of-islands-ii](https://github.com/nikhil0o7/LeetCode/tree/master/0305-number-of-islands-ii) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/nikhil0o7/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/nikhil0o7/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nikhil0o7/LeetCode/tree/master/0684-redundant-connection) |
