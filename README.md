@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1266-minimum-time-visiting-all-points](https://github.com/nikhil0o7/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nikhil0o7/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nikhil0o7/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1429-first-unique-number](https://github.com/nikhil0o7/LeetCode/tree/master/1429-first-unique-number) |
 | [1470-shuffle-the-array](https://github.com/nikhil0o7/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/nikhil0o7/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1834-single-threaded-cpu](https://github.com/nikhil0o7/LeetCode/tree/master/1834-single-threaded-cpu) |
@@ -327,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0981-time-based-key-value-store](https://github.com/nikhil0o7/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1166-design-file-system](https://github.com/nikhil0o7/LeetCode/tree/master/1166-design-file-system) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nikhil0o7/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1429-first-unique-number](https://github.com/nikhil0o7/LeetCode/tree/master/1429-first-unique-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhil0o7/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nikhil0o7/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## String
@@ -585,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0706-design-hashmap](https://github.com/nikhil0o7/LeetCode/tree/master/0706-design-hashmap) |
 | [0981-time-based-key-value-store](https://github.com/nikhil0o7/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1166-design-file-system](https://github.com/nikhil0o7/LeetCode/tree/master/1166-design-file-system) |
+| [1429-first-unique-number](https://github.com/nikhil0o7/LeetCode/tree/master/1429-first-unique-number) |
 ## Math
 |  |
 | ------- |
@@ -711,6 +714,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nikhil0o7/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1429-first-unique-number](https://github.com/nikhil0o7/LeetCode/tree/master/1429-first-unique-number) |
 ## Trie
 |  |
 | ------- |
@@ -724,6 +728,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/nikhil0o7/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nikhil0o7/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/nikhil0o7/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1429-first-unique-number](https://github.com/nikhil0o7/LeetCode/tree/master/1429-first-unique-number) |
 ## Combinatorics
 |  |
 | ------- |
