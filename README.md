@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nikhil0o7/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nikhil0o7/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1429-first-unique-number](https://github.com/nikhil0o7/LeetCode/tree/master/1429-first-unique-number) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/nikhil0o7/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1470-shuffle-the-array](https://github.com/nikhil0o7/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/nikhil0o7/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1834-single-threaded-cpu](https://github.com/nikhil0o7/LeetCode/tree/master/1834-single-threaded-cpu) |
@@ -470,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0703-kth-largest-element-in-a-stream](https://github.com/nikhil0o7/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/nikhil0o7/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/nikhil0o7/LeetCode/tree/master/1046-last-stone-weight) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/nikhil0o7/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1834-single-threaded-cpu](https://github.com/nikhil0o7/LeetCode/tree/master/1834-single-threaded-cpu) |
 ## Bucket Sort
 |  |
@@ -549,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/nikhil0o7/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhil0o7/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/nikhil0o7/LeetCode/tree/master/0567-permutation-in-string) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/nikhil0o7/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Stack
 |  |
 | ------- |
@@ -729,6 +732,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0232-implement-queue-using-stacks](https://github.com/nikhil0o7/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/nikhil0o7/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1429-first-unique-number](https://github.com/nikhil0o7/LeetCode/tree/master/1429-first-unique-number) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/nikhil0o7/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Combinatorics
 |  |
 | ------- |
@@ -737,4 +741,9 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nikhil0o7/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/nikhil0o7/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Ordered Set
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/nikhil0o7/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
