@@ -8,6 +8,6 @@ class Solution:
             temp = step2
             step2 = step1 + step2
             step1 = temp
-
+        
         return step2
         
