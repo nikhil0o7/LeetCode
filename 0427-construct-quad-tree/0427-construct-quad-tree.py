@@ -29,6 +29,5 @@ class Solution:
             bottomRight = dfs(n, r + n, c + n)
             return Node(0, False, topLeft, topRight, bottomLeft, bottomRight)
 
-        n = len(grid)
         return dfs(len(grid), 0 , 0)
 
