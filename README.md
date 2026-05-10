@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/nikhil0o7/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0427-construct-quad-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0428-serialize-and-deserialize-n-ary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0428-serialize-and-deserialize-n-ary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/nikhil0o7/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nikhil0o7/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/nikhil0o7/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nikhil0o7/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/nikhil0o7/LeetCode/tree/master/0419-battleships-in-a-board) |
+| [0427-construct-quad-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/nikhil0o7/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/nikhil0o7/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/nikhil0o7/LeetCode/tree/master/0494-target-sum) |
@@ -458,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/nikhil0o7/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhil0o7/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil0o7/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0427-construct-quad-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0973-k-closest-points-to-origin](https://github.com/nikhil0o7/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -502,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0286-walls-and-gates](https://github.com/nikhil0o7/LeetCode/tree/master/0286-walls-and-gates) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nikhil0o7/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/nikhil0o7/LeetCode/tree/master/0419-battleships-in-a-board) |
+| [0427-construct-quad-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0498-diagonal-traverse](https://github.com/nikhil0o7/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/nikhil0o7/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/nikhil0o7/LeetCode/tree/master/0733-flood-fill) |
