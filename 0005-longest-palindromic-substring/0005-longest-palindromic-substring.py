@@ -1,17 +1,19 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
+        if len(s) == 1:
+            return s
         n = len(s)
-        dp = [[False] * n for _ in range(n)]
-        # print(dp)
+        dp = [[False] * n for _ in range(len(s))]
         ans = [0,0]
         for i in range(n):
             dp[i][i] = True
-        
+
         for i in range(n - 1):
             if s[i] == s[i + 1]:
                 dp[i][i + 1] = True
-                ans = [i , i + 1]
+                ans = [i, i + 1]
 
+        
         for diff in range(2, n):
             for i in range(n - diff):
                 j = i + diff
@@ -19,7 +21,8 @@ class Solution:
                     dp[i][j] = True
                     ans = [i, j]
 
-        i,j = ans
-        return s[i : j + 1]
 
-        
+        x,y = ans
+        return s[x : y + 1]
+
+
