@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1046-last-stone-weight](https://github.com/nikhil0o7/LeetCode/tree/master/1046-last-stone-weight) |
 | [1063-best-sightseeing-pair](https://github.com/nikhil0o7/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nikhil0o7/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/nikhil0o7/LeetCode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1266-minimum-time-visiting-all-points](https://github.com/nikhil0o7/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nikhil0o7/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nikhil0o7/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -445,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0853-car-fleet](https://github.com/nikhil0o7/LeetCode/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/nikhil0o7/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/nikhil0o7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/nikhil0o7/LeetCode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nikhil0o7/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nikhil0o7/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1834-single-threaded-cpu](https://github.com/nikhil0o7/LeetCode/tree/master/1834-single-threaded-cpu) |
@@ -671,6 +673,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/nikhil0o7/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nikhil0o7/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/nikhil0o7/LeetCode/tree/master/0695-max-area-of-island) |
+| [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/nikhil0o7/LeetCode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 ## Simulation
 |  |
 | ------- |
