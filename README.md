@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/nikhil0o7/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/nikhil0o7/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1091-shortest-path-in-binary-matrix](https://github.com/nikhil0o7/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/nikhil0o7/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/nikhil0o7/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Binary Tree
 |  |
 | ------- |
@@ -282,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0746-min-cost-climbing-stairs](https://github.com/nikhil0o7/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1063-best-sightseeing-pair](https://github.com/nikhil0o7/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1143-longest-common-subsequence](https://github.com/nikhil0o7/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/nikhil0o7/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Backtracking
 |  |
 | ------- |
@@ -712,6 +715,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/nikhil0o7/LeetCode/tree/master/0684-redundant-connection) |
 | [0797-all-paths-from-source-to-target](https://github.com/nikhil0o7/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/nikhil0o7/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/nikhil0o7/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Topological Sort
 |  |
 | ------- |
