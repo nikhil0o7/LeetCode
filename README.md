@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0305-number-of-islands-ii](https://github.com/nikhil0o7/LeetCode/tree/master/0305-number-of-islands-ii) |
 | [0322-coin-change](https://github.com/nikhil0o7/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil0o7/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0362-design-hit-counter](https://github.com/nikhil0o7/LeetCode/tree/master/0362-design-hit-counter) |
 | [0416-partition-equal-subset-sum](https://github.com/nikhil0o7/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nikhil0o7/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/nikhil0o7/LeetCode/tree/master/0419-battleships-in-a-board) |
@@ -539,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhil0o7/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/nikhil0o7/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nikhil0o7/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0362-design-hit-counter](https://github.com/nikhil0o7/LeetCode/tree/master/0362-design-hit-counter) |
 | [0704-binary-search](https://github.com/nikhil0o7/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/nikhil0o7/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/nikhil0o7/LeetCode/tree/master/0981-time-based-key-value-store) |
@@ -603,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0284-peeking-iterator](https://github.com/nikhil0o7/LeetCode/tree/master/0284-peeking-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/nikhil0o7/LeetCode/tree/master/0355-design-twitter) |
+| [0362-design-hit-counter](https://github.com/nikhil0o7/LeetCode/tree/master/0362-design-hit-counter) |
 | [0449-serialize-and-deserialize-bst](https://github.com/nikhil0o7/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nikhil0o7/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0706-design-hashmap](https://github.com/nikhil0o7/LeetCode/tree/master/0706-design-hashmap) |
@@ -737,6 +740,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Data Stream
 |  |
 | ------- |
+| [0362-design-hit-counter](https://github.com/nikhil0o7/LeetCode/tree/master/0362-design-hit-counter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nikhil0o7/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1429-first-unique-number](https://github.com/nikhil0o7/LeetCode/tree/master/1429-first-unique-number) |
 ## Trie
@@ -752,6 +756,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/nikhil0o7/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nikhil0o7/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/nikhil0o7/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0362-design-hit-counter](https://github.com/nikhil0o7/LeetCode/tree/master/0362-design-hit-counter) |
 | [1429-first-unique-number](https://github.com/nikhil0o7/LeetCode/tree/master/1429-first-unique-number) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/nikhil0o7/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Combinatorics
