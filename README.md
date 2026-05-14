@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1429-first-unique-number](https://github.com/nikhil0o7/LeetCode/tree/master/1429-first-unique-number) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/nikhil0o7/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1470-shuffle-the-array](https://github.com/nikhil0o7/LeetCode/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nikhil0o7/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/nikhil0o7/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1834-single-threaded-cpu](https://github.com/nikhil0o7/LeetCode/tree/master/1834-single-threaded-cpu) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/nikhil0o7/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -588,6 +589,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0853-car-fleet](https://github.com/nikhil0o7/LeetCode/tree/master/0853-car-fleet) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhil0o7/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/nikhil0o7/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nikhil0o7/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
 |  |
 | ------- |
@@ -631,6 +633,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/nikhil0o7/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/nikhil0o7/LeetCode/tree/master/0853-car-fleet) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhil0o7/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nikhil0o7/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Linked List
 |  |
 | ------- |
