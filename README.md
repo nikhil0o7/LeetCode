@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/nikhil0o7/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/nikhil0o7/LeetCode/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/nikhil0o7/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/nikhil0o7/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nikhil0o7/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/nikhil0o7/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/nikhil0o7/LeetCode/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/nikhil0o7/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/nikhil0o7/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nikhil0o7/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/nikhil0o7/LeetCode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nikhil0o7/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -720,6 +722,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/nikhil0o7/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/nikhil0o7/LeetCode/tree/master/0684-redundant-connection) |
 | [0797-all-paths-from-source-to-target](https://github.com/nikhil0o7/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/nikhil0o7/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/nikhil0o7/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/nikhil0o7/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Topological Sort
@@ -728,6 +731,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/nikhil0o7/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nikhil0o7/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0269-alien-dictionary](https://github.com/nikhil0o7/LeetCode/tree/master/0269-alien-dictionary) |
+| [0802-find-eventual-safe-states](https://github.com/nikhil0o7/LeetCode/tree/master/0802-find-eventual-safe-states) |
 ## Binary Search Tree
 |  |
 | ------- |
