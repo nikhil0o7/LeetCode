@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhil0o7/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhil0o7/LeetCode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/nikhil0o7/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhil0o7/LeetCode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/nikhil0o7/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Breadth-First Search
 |  |
@@ -348,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nikhil0o7/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1429-first-unique-number](https://github.com/nikhil0o7/LeetCode/tree/master/1429-first-unique-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhil0o7/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhil0o7/LeetCode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nikhil0o7/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## String
 |  |
@@ -401,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0693-binary-number-with-alternating-bits](https://github.com/nikhil0o7/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nikhil0o7/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhil0o7/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhil0o7/LeetCode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 ## Prefix Sum
 |  |
 | ------- |
