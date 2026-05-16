@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/nikhil0o7/LeetCode/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/nikhil0o7/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/nikhil0o7/LeetCode/tree/master/0802-find-eventual-safe-states) |
+| [0815-bus-routes](https://github.com/nikhil0o7/LeetCode/tree/master/0815-bus-routes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nikhil0o7/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/nikhil0o7/LeetCode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nikhil0o7/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/nikhil0o7/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/nikhil0o7/LeetCode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/nikhil0o7/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0815-bus-routes](https://github.com/nikhil0o7/LeetCode/tree/master/0815-bus-routes) |
 | [0846-hand-of-straights](https://github.com/nikhil0o7/LeetCode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/nikhil0o7/LeetCode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/nikhil0o7/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -337,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/nikhil0o7/LeetCode/tree/master/0621-task-scheduler) |
 | [0706-design-hashmap](https://github.com/nikhil0o7/LeetCode/tree/master/0706-design-hashmap) |
 | [0763-partition-labels](https://github.com/nikhil0o7/LeetCode/tree/master/0763-partition-labels) |
+| [0815-bus-routes](https://github.com/nikhil0o7/LeetCode/tree/master/0815-bus-routes) |
 | [0846-hand-of-straights](https://github.com/nikhil0o7/LeetCode/tree/master/0846-hand-of-straights) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nikhil0o7/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nikhil0o7/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
