@@ -25,9 +25,9 @@ class Solution:
             n = n // 2
             topLeft = dfs(n, r, c)
             topRight = dfs(n, r, c + n)
-            bottomLeft = dfs(n, r + n, c)
-            bottomRight = dfs(n, r + n, c + n)
+            bottomLeft = dfs(n, r+n, c)
+            bottomRight = dfs(n, r + n , c + n)
+
             return Node(0, False, topLeft, topRight, bottomLeft, bottomRight)
-
-        return dfs(len(grid), 0 , 0)
-
+        return dfs(len(grid), 0, 0)
+        
