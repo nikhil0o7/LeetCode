@@ -4,24 +4,21 @@ class Solution:
         COLS = len(board[0])
         path = set()
 
-        def dfs(r,c,i) -> bool:
+        def dfs(r,c, i):
             if i == len(word):
                 return True
 
             if (0 > r or r >= ROWS or 0 > c or c >= COLS or board[r][c] != word[i] or (r,c) in path):
-                return
+                return False
 
             path.add((r,c))
-            res = dfs(r + 1, c, i + 1) or dfs(r - 1, c, i + 1) or dfs(r, c + 1, i + 1) or dfs(r, c - 1, i + 1)
+            res = dfs(r + 1, c, i + 1) or  dfs(r, c + 1, i + 1) or  dfs(r - 1, c, i + 1) or  dfs(r, c - 1, i + 1)
             path.remove((r,c))
             return res
 
-
         for r in range(ROWS):
             for c in range(COLS):
-                if dfs(r,c,0): return True
+                if dfs(r,c, 0) : return True
 
 
-        return False
-
-        
+        return False        
