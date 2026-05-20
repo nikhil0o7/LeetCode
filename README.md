@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhil0o7/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/nikhil0o7/LeetCode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhil0o7/LeetCode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/nikhil0o7/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/nikhil0o7/LeetCode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhil0o7/LeetCode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/nikhil0o7/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Breadth-First Search
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1091-shortest-path-in-binary-matrix](https://github.com/nikhil0o7/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nikhil0o7/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/nikhil0o7/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/nikhil0o7/LeetCode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/nikhil0o7/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Binary Tree
 |  |
@@ -733,6 +736,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0797-all-paths-from-source-to-target](https://github.com/nikhil0o7/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/nikhil0o7/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/nikhil0o7/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/nikhil0o7/LeetCode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/nikhil0o7/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Topological Sort
 |  |
