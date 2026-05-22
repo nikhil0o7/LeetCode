@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0875-koko-eating-bananas](https://github.com/nikhil0o7/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/nikhil0o7/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nikhil0o7/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/nikhil0o7/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/nikhil0o7/LeetCode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhil0o7/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-squares-of-a-sorted-array](https://github.com/nikhil0o7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -444,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0647-palindromic-substrings](https://github.com/nikhil0o7/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/nikhil0o7/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/nikhil0o7/LeetCode/tree/master/0763-partition-labels) |
+| [0977-squares-of-a-sorted-array](https://github.com/nikhil0o7/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/nikhil0o7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -467,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0846-hand-of-straights](https://github.com/nikhil0o7/LeetCode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/nikhil0o7/LeetCode/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/nikhil0o7/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/nikhil0o7/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/nikhil0o7/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/nikhil0o7/LeetCode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nikhil0o7/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
