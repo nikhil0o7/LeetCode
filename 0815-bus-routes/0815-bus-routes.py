@@ -40,8 +40,6 @@ class Solution:
                             seen.add(nextRoute)
                             queue.append(nextRoute)
 
-
-
             busCount += 1
         return -1
         
