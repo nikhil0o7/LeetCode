@@ -299,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0746-min-cost-climbing-stairs](https://github.com/nikhil0o7/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1063-best-sightseeing-pair](https://github.com/nikhil0o7/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1143-longest-common-subsequence](https://github.com/nikhil0o7/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/nikhil0o7/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/nikhil0o7/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Backtracking
 |  |
@@ -414,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0693-binary-number-with-alternating-bits](https://github.com/nikhil0o7/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nikhil0o7/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhil0o7/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/nikhil0o7/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhil0o7/LeetCode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 ## Prefix Sum
 |  |
@@ -587,6 +589,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/nikhil0o7/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2126-destroying-asteroids](https://github.com/nikhil0o7/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/nikhil0o7/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/nikhil0o7/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Sliding Window
 |  |
 | ------- |
