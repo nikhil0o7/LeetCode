@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1929-concatenation-of-array](https://github.com/nikhil0o7/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2126-destroying-asteroids](https://github.com/nikhil0o7/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/nikhil0o7/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2402-meeting-rooms-iii](https://github.com/nikhil0o7/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2465-shifting-letters-ii](https://github.com/nikhil0o7/LeetCode/tree/master/2465-shifting-letters-ii) |
 ## Dynamic Programming
 |  |
@@ -358,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/nikhil0o7/LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1429-first-unique-number](https://github.com/nikhil0o7/LeetCode/tree/master/1429-first-unique-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhil0o7/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2402-meeting-rooms-iii](https://github.com/nikhil0o7/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/nikhil0o7/LeetCode/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nikhil0o7/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## String
@@ -481,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1834-single-threaded-cpu](https://github.com/nikhil0o7/LeetCode/tree/master/1834-single-threaded-cpu) |
 | [2126-destroying-asteroids](https://github.com/nikhil0o7/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/nikhil0o7/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2402-meeting-rooms-iii](https://github.com/nikhil0o7/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nikhil0o7/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Divide and Conquer
 |  |
@@ -508,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1046-last-stone-weight](https://github.com/nikhil0o7/LeetCode/tree/master/1046-last-stone-weight) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/nikhil0o7/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1834-single-threaded-cpu](https://github.com/nikhil0o7/LeetCode/tree/master/1834-single-threaded-cpu) |
+| [2402-meeting-rooms-iii](https://github.com/nikhil0o7/LeetCode/tree/master/2402-meeting-rooms-iii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -722,6 +726,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0498-diagonal-traverse](https://github.com/nikhil0o7/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/nikhil0o7/LeetCode/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/nikhil0o7/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2402-meeting-rooms-iii](https://github.com/nikhil0o7/LeetCode/tree/master/2402-meeting-rooms-iii) |
 ## Memoization
 |  |
 | ------- |
