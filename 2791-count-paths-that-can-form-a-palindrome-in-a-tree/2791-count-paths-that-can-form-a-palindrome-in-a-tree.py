@@ -10,6 +10,7 @@ class Solution:
         for child in range(1, n):
             graph[parent[child]].append(child)
 
+
         count = defaultdict(int)
         count[0] = 1
 
@@ -32,7 +33,6 @@ class Solution:
 
                 # Store this node's root-to-node mask
                 count[child_mask] += 1
-                print(child,child_mask)
                 dfs(child, child_mask)
 
         dfs(0, 0)
