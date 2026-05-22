@@ -4,7 +4,6 @@ class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
         adj = [[] for _ in range(numCourses)]
         indegree = [0] * numCourses
-        print(adj)
         queue = deque()
         for src,dst in prerequisites:
             adj[src].append(dst)
