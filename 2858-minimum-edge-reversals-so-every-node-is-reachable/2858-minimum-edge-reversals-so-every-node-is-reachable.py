@@ -19,7 +19,8 @@ class Solution:
             return reversals
 
         res[0] = dfs_count(0, -1)
-
+        print(graph)
+        print(res)
         def reroot(node, parent):
             for nei, cost in graph[node]:
                 if nei == parent:
