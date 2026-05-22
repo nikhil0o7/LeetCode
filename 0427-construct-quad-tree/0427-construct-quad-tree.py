@@ -12,7 +12,7 @@ class Node:
 
 class Solution:
     def construct(self, grid: List[List[int]]) -> 'Node':
-        def dfs(n, r, c):
+        def dfs(n,r,c):
             allSame = True
             for i in range(n):
                 for j in range(n):
@@ -23,11 +23,11 @@ class Solution:
             if allSame:
                 return Node(grid[r][c], True)
             n = n // 2
-            topLeft = dfs(n, r, c)
+            topLeft = dfs(n, r,c)
             topRight = dfs(n, r, c + n)
-            bottomLeft = dfs(n, r+n, c)
-            bottomRight = dfs(n, r + n , c + n)
-
+            bottomLeft = dfs(n, r + n, c)
+            bottomRight = dfs(n, r + n, c + n)
             return Node(0, False, topLeft, topRight, bottomLeft, bottomRight)
+
         return dfs(len(grid), 0, 0)
         
