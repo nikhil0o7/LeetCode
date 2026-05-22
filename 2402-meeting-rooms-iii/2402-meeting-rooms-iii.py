@@ -6,15 +6,18 @@ class Solution:
             min_room_availability_time = inf
             min_available_time_room = 0
             found_unused_room = False
+            #looks all the meetings availablitty time and grabs the first one
             for i in range(n):
                 if room_availability_time[i] <= start:
                     found_unused_room = True
                     meeting_count[i] += 1
                     room_availability_time[i] = end
                     break
+                # updates the min_room_available time
                 if min_room_availability_time > room_availability_time[i]:
                     min_room_availability_time = room_availability_time[i]
                     min_available_time_room = i
+            # if you don't find any room ,settle for the ending time of the min_available_time_room
             if not found_unused_room:
                 room_availability_time[min_available_time_room] += end - start
                 meeting_count[min_available_time_room] += 1
