@@ -3,6 +3,7 @@ class Node:
         self.key = key
         self.val = val
         self.prev = self.next = None
+        
 class LRUCache:
 
     def __init__(self, capacity: int):
