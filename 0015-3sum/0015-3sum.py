@@ -10,13 +10,13 @@ class Solution:
 
         return ans
 
-    def twoSum(self, nums, i , ans):
+    def twoSum(self, nums:list[int], i:int, ans:list[int]):
         l,r = i + 1, len(nums) - 1
         while l < r:
-            s = nums[l] + nums[i] + nums[r]
-            if s > 0:
+            t = nums[i] + nums[l] + nums[r]
+            if t > 0:
                 r -= 1
-            elif s < 0:
+            elif t < 0:
                 l += 1
             else:
                 ans.append([nums[i],nums[l],nums[r]])
@@ -24,3 +24,5 @@ class Solution:
                 r -= 1
                 while l < r and nums[l - 1] == nums[l]:
                     l += 1
+
+        
