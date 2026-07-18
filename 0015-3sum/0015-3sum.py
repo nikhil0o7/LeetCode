@@ -3,26 +3,26 @@ class Solution:
         nums.sort()
         ans = []
         for i in range(len(nums) - 1):
-            if nums[i] > 0:
+            if nums[i] > 0 :
                 break
-            elif i == 0 or nums[i - 1] != nums[i]:
+            elif i == 0 or nums[i] != nums[i - 1]:
                 self.twoSum(nums,i,ans)
 
         return ans
 
-    def twoSum(self, nums:list[int], i:int, ans:list[int]):
+    def twoSum(self, nums, i, ans):
         l,r = i + 1, len(nums) - 1
         while l < r:
-            t = nums[i] + nums[l] + nums[r]
-            if t > 0:
+            s = nums[i] + nums[l] + nums[r]
+            if s > 0:
                 r -= 1
-            elif t < 0:
+            elif s < 0:
                 l += 1
             else:
                 ans.append([nums[i],nums[l],nums[r]])
                 l += 1
                 r -= 1
-                while l < r and nums[l - 1] == nums[l]:
+                while l < r and nums[l] == nums[l - 1]:
                     l += 1
 
         
