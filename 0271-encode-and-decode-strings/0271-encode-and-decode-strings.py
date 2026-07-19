@@ -5,7 +5,6 @@ class Codec:
         for s in strs:
             # Append the length, the delimiter, and the string itself.
             encoded_string += str(len(s)) + '/:' + s
-        print(encoded_string)
         return encoded_string
 
     def decode(self, s):
