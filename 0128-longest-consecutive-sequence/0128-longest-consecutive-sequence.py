@@ -4,9 +4,10 @@ class Solution:
         ans = 0
         for num in nums:
             if num - 1 not in nums:
-                y = num
+                y =  num
                 while y in nums:
-                    y +=1
+                    y += 1
 
                 ans = max(ans, y - num)
+
         return ans
